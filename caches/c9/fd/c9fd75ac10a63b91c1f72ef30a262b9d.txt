@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+    <meta http-equiv="content-language" content="vi" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+    <meta name="title" content="GinMovies - Xem Phim Nhanh, Xem Phim Online, Phim VietSub, Thuyết Minh Hay Nhất" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="ROBOTS" content="index,follow,noodp" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="BingBOT" content="index,follow" />
+    <meta name="yahooBOT" content="index,follow" />
+    <meta name="slurp" content="index,follow" />
+    <meta name="msnbot" content="index,follow" />
+	<meta name="referrer" content="no-referrer" />
+    <meta property="og:site_name" content="bilutv.net" />
+    <meta property="og:locale" content="vi_VN" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<meta property="fb:app_id" content="508308149306202" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://bilutv.net" />
+<meta property="og:title" content="GinMovies - Xem Phim Nhanh, Xem Phim Online, Phim VietSub, Thuyết Minh Hay Nhất" />
+<meta property="og:description" content="Xem Phim online chất lượng cao miễn phí. Xem phim VietSub. Phim thuyết minh chất lượng HD. Phim bộ mới nhất, phim hành động hay nhất, phim tâm lý tình cảm hài hước hấp dẫn nhất.." />
+<meta name="description" content="Xem Phim online chất lượng cao miễn phí. Xem phim VietSub. Phim thuyết minh chất lượng HD. Phim bộ mới nhất, phim hành động hay nhất, phim tâm lý tình cảm hài hước hấp dẫn nhất.." />
+<meta name="keywords" content="Phim Trung Quốc, Phim Hàn Quốc, Phim chiếu rạp, Phim hành động, Phim kinh di, Phim hài, Phim hoạt hình, Phim Mỹ, Phim Võ Thuật, Phim bộ hay nhất, Xem phim Online" />
+<link rel="stylesheet" type="text/css" href="http://media.bilutv.net/css/owl.carousel.css" />
+<title>GinMovies - Xem Phim Nhanh, Xem Phim Online, Phim VietSub, Thuyết Minh Hay Nhất</title>
+	<link rel="stylesheet" type="text/css" href="http://media.bilutv.net/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" />
+	<link rel="stylesheet" type="text/css" href="http://media.bilutv.net/css/owl.carousel.css" />
+	<link rel="stylesheet" type="text/css" href="http://media.bilutv.net/css/main.css?v=1.8" />
+    <link rel="stylesheet" type="text/css" href="http://media.bilutv.net/css/update.css?v=1.8" />
+    	<script type="text/javascript" src="http://bilutv.com/js/yii-1.0.min.js"></script>
+	<script type="text/javascript" src="http://media.bilutv.net/js/jquery.min.js"></script>	
+	<script type="text/javascript" src="http://media.bilutv.net/js/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="http://media.bilutv.net/js/functions.js?v=1.5"></script>
+    <script type="text/javascript" src="http://media.bilutv.net/js/actions.js?v=1.2"></script>
+	<script type="text/javascript" src="http://media.bilutv.net/js/main.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-122744462-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<style>
+	#menu-user{display: none;}
+	img{display: inline-block !important;    visibility: inherit !important;}
+</style></head>
+<body>
+<div id="header">
+	<div class="container">
+		<a class="logo" href="/" title="Trang chủ">
+			<img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.nethttp://ginmovies.me/logo.png" alt="Bilutv.net" />
+		</a>
+        <div class="search-container relative">
+            <form action="/tim-kiem.html" class="form-search">
+                <input name="q" id="keyword" type="text" autocomplete="off"  placeholder="Nhập tên phim, diễn viên,..." />
+                <button>Tìm kiếm</button>
+                <div style="display: block;" id="suggestions" class="top-search-box"></div>
+            </form>
+        </div>
+		<ul id="menu-user">
+                           
+               
+               <li class="register"><a class="" href="/user/login"><i class="fa fa-user-plus"></i><span>Đăng nhập</span></a></li>
+			   <li class="login"><a class="" href="/user/register"><i class="fa fa-sign-in"></i><span>Đăng ký</span></a></li> 
+            			
+        </ul>
+		
+		<div class="clear"></div>
+					<div class="suggest-dns">  
+				<p>Cú pháp tìm kiếm phim nhanh nhất trên Google: [Tên phim + ginmovies.me]. Xem hướng dẫn tại đây <a style="color:#fff601;text-decoration:underline" href="http://bilutv.net/huong-dan-tim-kiem-phim.html" target="_blank">tại đây</a></p>
+			</div> 
+		 
+        
+	</div>
+</div>
+<div id="main-menu" class="desktop">
+	<div class="container">
+    	<ul>
+    		<li class="menu-home">
+                <a href="/" title="Trang chủ">
+                    <i class="fa fa-home"></i>
+                </a>
+            </li>
+            <li>
+                <a href="/the-loai" title="Thể loại">
+                    <i class="fa fa-clone"></i>
+                    <span>Thể loại</span>
+                </a>
+                <ul class="sub-menu span-2 absolute">
+                                                <li class="sub-menu-item">
+                                <a title="Cổ Trang - Thần Thoại" href="/the-loai/co-trang-than-thoai-6.html">Cổ Trang - Thần Thoại</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Võ Thuật - Kiếm Hiệp" href="/the-loai/vo-thuat-kiem-hiep-4.html">Võ Thuật - Kiếm Hiệp</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phiêu lưu -  Hành động" href="/the-loai/phieu-luu-hanh-dong-1.html">Phiêu lưu -  Hành động</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Tâm Lý - Tình Cảm" href="/the-loai/tam-ly-tinh-cam-51.html">Tâm Lý - Tình Cảm</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim Hoạt Hình" href="/the-loai/phim-hoat-hinh-55.html">Phim Hoạt Hình</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Khoa Học - Viễn Tưởng" href="/the-loai/khoa-hoc-vien-tuong-2.html">Khoa Học - Viễn Tưởng</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Hình Sự - Chiến Tranh" href="/the-loai/hinh-su-chien-tranh-7.html">Hình Sự - Chiến Tranh</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Tài Liệu - Khám Phá" href="/the-loai/tai-lieu-kham-pha-3.html">Tài Liệu - Khám Phá</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Văn Hóa - Tâm Linh" href="/the-loai/van-hoa-tam-linh-53.html">Văn Hóa - Tâm Linh</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Hài Hước" href="/the-loai/hai-huoc-52.html">Hài Hước</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Thể Thao - Âm Nhạc" href="/the-loai/the-thao-am-nhac-54.html">Thể Thao - Âm Nhạc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Kinh Dị - Ma" href="/the-loai/kinh-di-ma-5.html">Kinh Dị - Ma</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Gia Đình - Học Đường" href="/the-loai/gia-dinh-hoc-duong-58.html">Gia Đình - Học Đường</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="TV Show" href="/the-loai/tv-show-57.html">TV Show</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Chiếu Rạp" href="/the-loai/chieu-rap-56.html">Chiếu Rạp</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Xuyên Không" href="/the-loai/xuyen-khong-61.html">Xuyên Không</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim Thuyết Minh" href="/the-loai/phim-thuyet-minh-59.html">Phim Thuyết Minh</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim Lồng Tiếng" href="/the-loai/phim-long-tieng-60.html">Phim Lồng Tiếng</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Trinh Thám" href="/the-loai/trinh-tham-62.html">Trinh Thám</a>
+                            </li>
+                                        </ul>
+
+            </li>
+    		<li>
+                <a href="/quoc-gia" title="Quốc gia"><i class="fa fa-globe"></i><span>Quốc gia</span></a>
+                <ul class="sub-menu span-3 absolute">
+                                                <li class="sub-menu-item">
+                                <a title="Việt Nam" href="/quoc-gia/viet-nam-7.html">Việt Nam</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Trung Quốc" href="/quoc-gia/trung-quoc-2.html">Trung Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Hàn Quốc" href="/quoc-gia/han-quoc-5.html">Hàn Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Thái Lan" href="/quoc-gia/thai-lan-6.html">Thái Lan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Hồng Kông" href="/quoc-gia/hong-kong-10.html">Hồng Kông</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Âu - Mỹ" href="/quoc-gia/au-my-3.html">Âu - Mỹ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Đài Loan" href="/quoc-gia/dai-loan-1.html">Đài Loan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Nhật Bản" href="/quoc-gia/nhat-ban-8.html">Nhật Bản</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Ấn Độ" href="/quoc-gia/an-do-11.html">Ấn Độ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Philippines" href="/quoc-gia/philippines-12.html">Philippines</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Quốc gia khác" href="/quoc-gia/quoc-gia-khac-9.html">Quốc gia khác</a>
+                            </li>
+                                        </ul>
+            </li>
+    		<li>
+                <a href="/danh-sach/phim-le.html" title="Danh sách phim lẻ mới"><i class="fa fa-film"></i><span>Phim lẻ</span></a>
+                <ul class="sub-menu span-4 absolute">
+                                                <li class="sub-menu-item">
+                                <a title="Phim lẻ Việt Nam" href="/danh-sach/phim-le-viet-nam-7.html">Phim lẻ Việt Nam</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Trung Quốc" href="/danh-sach/phim-le-trung-quoc-2.html">Phim lẻ Trung Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Hàn Quốc" href="/danh-sach/phim-le-han-quoc-5.html">Phim lẻ Hàn Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Thái Lan" href="/danh-sach/phim-le-thai-lan-6.html">Phim lẻ Thái Lan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Hồng Kông" href="/danh-sach/phim-le-hong-kong-10.html">Phim lẻ Hồng Kông</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Âu - Mỹ" href="/danh-sach/phim-le-au-my-3.html">Phim lẻ Âu - Mỹ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Đài Loan" href="/danh-sach/phim-le-dai-loan-1.html">Phim lẻ Đài Loan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Nhật Bản" href="/danh-sach/phim-le-nhat-ban-8.html">Phim lẻ Nhật Bản</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Ấn Độ" href="/danh-sach/phim-le-an-do-11.html">Phim lẻ Ấn Độ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Philippines" href="/danh-sach/phim-le-philippines-12.html">Phim lẻ Philippines</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim lẻ Quốc gia khác" href="/danh-sach/phim-le-quoc-gia-khac-9.html">Phim lẻ Quốc gia khác</a>
+                            </li>
+                                        </ul>
+            </li>
+    		<li>
+                <a href="/danh-sach/phim-bo.html" title="Danh sách phim bộ mơi"><i class="fa fa-th-list"></i><span>Phim bộ</span></a>
+                <ul class="sub-menu span-4 absolute">
+                                                <li class="sub-menu-item">
+                                <a title="Phim bộ Việt Nam" href="/danh-sach/phim-bo-viet-nam-7.html">Phim bộ Việt Nam</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Trung Quốc" href="/danh-sach/phim-bo-trung-quoc-2.html">Phim bộ Trung Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Hàn Quốc" href="/danh-sach/phim-bo-han-quoc-5.html">Phim bộ Hàn Quốc</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Thái Lan" href="/danh-sach/phim-bo-thai-lan-6.html">Phim bộ Thái Lan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Hồng Kông" href="/danh-sach/phim-bo-hong-kong-10.html">Phim bộ Hồng Kông</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Âu - Mỹ" href="/danh-sach/phim-bo-au-my-3.html">Phim bộ Âu - Mỹ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Đài Loan" href="/danh-sach/phim-bo-dai-loan-1.html">Phim bộ Đài Loan</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Nhật Bản" href="/danh-sach/phim-bo-nhat-ban-8.html">Phim bộ Nhật Bản</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Ấn Độ" href="/danh-sach/phim-bo-an-do-11.html">Phim bộ Ấn Độ</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Philippines" href="/danh-sach/phim-bo-philippines-12.html">Phim bộ Philippines</a>
+                            </li>
+                                                    <li class="sub-menu-item">
+                                <a title="Phim bộ Quốc gia khác" href="/danh-sach/phim-bo-quoc-gia-khac-9.html">Phim bộ Quốc gia khác</a>
+                            </li>
+                                        </ul>
+            </li>
+            <li>
+                <a href="/the-loai/hoat-hinh-55.html" title="Phim hoạt hình"><i class="fa fa-bolt"></i><span>Phim hoạt hình</span></a>
+            </li>
+    		<li><a href="/phim-xem-nhieu" title=""><i class="fa fa-eye"></i><span>Phim xem nhiều</span></a></li>
+    		<li><a href="/phim-chieu-rap" title=""><i class="fa fa-tasks"></i><span>Phim chiếu rạp</span></a></li>
+    	</ul>
+	</div>
+   </div>
+	
+</div>
+<div class="container">
+	<div id="abdMasthead" style="margin:0 auto; width:970px"></div>
+	<script type="text/javascript">if(!window.BB_ind) { BB_ind = 0; }if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}BB_ind++;window.BB_skin = {centerWidth: 1000,centerDomId: '',leftOffset: 0,rightOffset: 0,topPos: 0,deferLoading: false,fixed: true,fixedStickTopOnScroll: false,fixedScrollSecondaryTop: 0,adjustSkinOnDynamicCenter: true,zIndex: 0,leftFrameId: '',rightFrameId: '',pl: 44773,index: BB_ind};</script><script type="text/javascript" data-cfasync="false" async src="//st.bebi.com/bebi_v3.js"></script><div style="margin-bottom: 5px; text-align: center; border: 1px dotted #FFF;"><center><script type="text/javascript">if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 44772, "index": BB_ind});</script><script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script></center></div>
+</div>
+
+<div id="main-content">
+	<div id="content">
+	<script src="http://media.bilutv.net/js/owl.carousel.js"></script>
+<div class="container">
+	<div class="left-content">
+		
+        	       <ul id="top-slide">
+	                      <li><a title="Song Thế Sủng Phi 2" href="/phim/song-the-sung-phi-2-7424.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/800/4458293521869176116316782891624386010284032n-201810478.png" alt="Song Thế Sủng Phi 2"></a></li>
+	                      <li><a title="Thời Đại Lập Nghiệp" href="/phim/thoi-dai-lap-nghiep-7384.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/800/thoi-dai-lap-nghiep-ngang-112-10-201821g02-21-201810874.jpg" alt="Thời Đại Lập Nghiệp"></a></li>
+	                      <li><a title="Dạ Thiên Tử" href="/phim/da-thien-tu-7159.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/08/800/da-thien-tu15-201808764.jpg" alt="Dạ Thiên Tử"></a></li>
+	                      <li><a title="Hứa Với Em Phù Sinh Nhược Mộng" href="/phim/hua-voi-em-phu-sinh-nhuoc-mong-7245.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/800/414081595345983269689546708345213879844864n-201809492.jpg" alt="Hứa Với Em Phù Sinh Nhược Mộng"></a></li>
+	                      <li><a title="Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực" href="/phim/biet-doi-sieu-anh-hung-3-cuoc-chien-vo-cuc-1304.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/800/avengers-infinity-war-part-i-201807232.jpg" alt="Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực"></a></li>
+	                      <li><a title="Vườn Sao Băng 2018" href="/phim/vuon-sao-bang-2018-7011.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/800/vuon-sao-bang-2018-201807338.jpg" alt="Vườn Sao Băng 2018"></a></li>
+	                      <li><a title="Ôi Hoàng Đế Bệ Hạ Của Ta" href="/phim/oi-hoang-de-be-ha-cua-ta-6709.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/800/toe-toet-201804223.png" alt="Ôi Hoàng Đế Bệ Hạ Của Ta"></a></li>
+	                      <li><a title="Thư Ký Kim Sao Thế?" href="/phim/thu-ky-kim-sao-the-6894.html"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/800/60cb0fbf91277480d6825d7d332985f1-201807200.jpg" alt="Thư Ký Kim Sao Thế?"></a></li>
+	                  </ul>
+        		<!--End top slide-->
+		<ul id="film-hot" class="list-film film-slide">
+							<li class="film-item">
+					<label class="current-status">Tập 18 VietSub</label>
+                                           <span class="label-quality">Tập 19: Tối nay</span>
+                    					<a href="/phim/thinh-duong-huyen-da-7383.html" title="Thịnh Đường Huyễn Dạ">
+						<img alt="Thịnh Đường Huyễn Dạ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/thinh-duong-huyen-da-201810641.jfif" />
+						<div class="title">
+							<p class="name">Thịnh Đường Huyễn Dạ</p>
+							<p class="real-name">An Oriental Odyssey (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Tập 40 VietSub</label>
+                    					<a href="/phim/neu-paris-khong-vui-ve-7306.html" title="Nếu Paris Không Vui Vẻ">
+						<img alt="Nếu Paris Không Vui Vẻ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/1-201809858.jpg" />
+						<div class="title">
+							<p class="name">Nếu Paris Không Vui Vẻ</p>
+							<p class="real-name">If Paris Downcast (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Tập 12 VietSub</label>
+                    					<a href="/phim/song-the-sung-phi-2-7424.html" title="Song Thế Sủng Phi 2">
+						<img alt="Song Thế Sủng Phi 2" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/song-the-sung-phi-2-2018-201810576.jpg" />
+						<div class="title">
+							<p class="name">Song Thế Sủng Phi 2</p>
+							<p class="real-name">The Eternal Love 2 (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 26/26 VietSub</label>
+                    					<a href="/phim/run-ray-di-a-bo-2-7318.html" title="Run Rẩy Đi A Bộ 2">
+						<img alt="Run Rẩy Đi A Bộ 2" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/run-ray-di-a-bo-2-dung-tm06-10-201815g27-46-201810849.jpg" />
+						<div class="title">
+							<p class="name">Run Rẩy Đi A Bộ 2</p>
+							<p class="real-name">Let's Shake It 2 (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 40/40 VietSub - Thuyết Minh</label>
+                    					<a href="/phim/thien-khanh-ung-liep-7232.html" title="Thiên Khanh Ưng Liệp">
+						<img alt="Thiên Khanh Ưng Liệp" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/15a3b8bd-f88a-4169-be02-31955c3da2e104-09-201809g10-29-201809245.jpg" />
+						<div class="title">
+							<p class="name">Thiên Khanh Ưng Liệp</p>
+							<p class="real-name">Eagles And Youngster (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">HD VietSub + Thuyết Minh</label>
+                    					<a href="/phim/toa-thap-choc-troi-7049.html" title="Toà Tháp Chọc Trời">
+						<img alt="Toà Tháp Chọc Trời" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/08/300/poster-201808401.jpg" />
+						<div class="title">
+							<p class="name">Toà Tháp Chọc Trời</p>
+							<p class="real-name">Skyscraper (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">HD VietSub + Thuyết Minh</label>
+                    					<a href="/phim/the-gioi-khung-long-vuong-quoc-sup-do-6935.html" title="Thế Giới Khủng Long: Vương Quốc Sụp Đổ">
+						<img alt="Thế Giới Khủng Long: Vương Quốc Sụp Đổ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/300/guia-balaguer-star-wars-els-ultims-jedis-246031-med-201807537.jpg" />
+						<div class="title">
+							<p class="name">Thế Giới Khủng Long: Vương Quốc Sụp Đổ</p>
+							<p class="real-name">Jurassic World: Fallen Kingdom (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 30/30 VietSub</label>
+                    					<a href="/phim/choc-phai-dien-ha-lanh-lung-7141.html" title="Chọc Phải Điện Hạ Lạnh Lùng">
+						<img alt="Chọc Phải Điện Hạ Lạnh Lùng" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/08/300/0-201808884.jpg" />
+						<div class="title">
+							<p class="name">Chọc Phải Điện Hạ Lạnh Lùng</p>
+							<p class="real-name">Accidentally In Love (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 30/30 VietSub</label>
+                    					<a href="/phim/mau-dua-anh-toi-di-gium-cai-6963.html" title="Mau Đưa Anh Tôi Đi Giùm Cái">
+						<img alt="Mau Đưa Anh Tôi Đi Giùm Cái" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/0-201806686.jpg" />
+						<div class="title">
+							<p class="name">Mau Đưa Anh Tôi Đi Giùm Cái</p>
+							<p class="real-name">Take My Brother Away (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">HD VietSub + Thuyết Minh</label>
+                                           <span class="label-quality">Phần 3</span>
+                    					<a href="/phim/biet-doi-sieu-anh-hung-3-cuoc-chien-vo-cuc-1304.html" title="Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực">
+						<img alt="Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/avengers-infinity-war-2018-201806650.jpg" />
+						<div class="title">
+							<p class="name">Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực</p>
+							<p class="real-name">Avengers: Infinity War Part I (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 16/16 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/thu-ky-kim-sao-the-6894.html" title="Thư Ký Kim Sao Thế?">
+						<img alt="Thư Ký Kim Sao Thế?" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/poster-201806532.medium" />
+						<div class="title">
+							<p class="name">Thư Ký Kim Sao Thế?</p>
+							<p class="real-name">What's Wrong With Secretary Kim / Why Secretary Kim (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 36/36 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/manh-phi-gia-dao-6888.html" title="Manh Phi Giá Đáo">
+						<img alt="Manh Phi Giá Đáo" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/manh-phi-gia-dao-201806112.jpg" />
+						<div class="title">
+							<p class="name">Manh Phi Giá Đáo</p>
+							<p class="real-name">Mengfei Comes Across (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 65/65 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/mang-hoang-ky-3349.html" title="Mãng Hoang Kỷ">
+						<img alt="Mãng Hoang Kỷ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/0-201804299.jpg" />
+						<div class="title">
+							<p class="name">Mãng Hoang Kỷ</p>
+							<p class="real-name">The Legend of Jade Sword (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 24/24 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/to-tong-than-yeu-cua-toi-6921.html" title="Tổ Tông Thân Yêu Của Tôi">
+						<img alt="Tổ Tông Thân Yêu Của Tôi" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/ppu320270030102pp6017000-201806966.jpg" />
+						<div class="title">
+							<p class="name">Tổ Tông Thân Yêu Của Tôi</p>
+							<p class="real-name">Hello Dear Ancestors (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 56/56 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/manh-the-thuc-than-6739.html" title="Manh Thê Thực Thần">
+						<img alt="Manh Thê Thực Thần" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/imageproxy-201804142.jpg" />
+						<div class="title">
+							<p class="name">Manh Thê Thực Thần</p>
+							<p class="real-name">Cinderella Chef (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 28/28 VietSub</label>
+                    					<a href="/phim/bien-ca-dua-em-den-6899.html" title="Biển Cả Đưa Em Đến">
+						<img alt="Biển Cả Đưa Em Đến" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/06/300/odyjnc-201806899.jpg" />
+						<div class="title">
+							<p class="name">Biển Cả Đưa Em Đến</p>
+							<p class="real-name">My Love From The Ocean (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 25/25 VietSub + Thuyết Minh</label>
+                    					<a href="/phim/ket-ai-moi-tinh-dau-cua-thien-tue-dai-nhan-6797.html" title="Kết Ái: Mối Tình Đầu Của Thiên Tuế Đại Nhân">
+						<img alt="Kết Ái: Mối Tình Đầu Của Thiên Tuế Đại Nhân" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/05/300/03-201805739.jpg" />
+						<div class="title">
+							<p class="name">Kết Ái: Mối Tình Đầu Của Thiên Tuế Đại Nhân</p>
+							<p class="real-name">The Love Knot: His Excellency's First Love (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 42/42 VietSub + Thuyết Minh</label>
+                                           <span class="label-quality">Phần 2</span>
+                    					<a href="/phim/oi-hoang-de-be-ha-cua-ta-6709.html" title="Ôi Hoàng Đế Bệ Hạ Của Ta">
+						<img alt="Ôi Hoàng Đế Bệ Hạ Của Ta" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/f11f3a292df5e0fed220fd68506034a85edf729a-201804925.jpg" />
+						<div class="title">
+							<p class="name">Ôi Hoàng Đế Bệ Hạ Của Ta</p>
+							<p class="real-name">Oh My Emperor (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">HD VietSub + Thuyết Minh</label>
+                    					<a href="/phim/truy-lung-quai-yeu-2-6492.html" title="Truy Lùng Quái Yêu 2">
+						<img alt="Truy Lùng Quái Yêu 2" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/b9904dd46728-201804175.jpg" />
+						<div class="title">
+							<p class="name">Truy Lùng Quái Yêu 2</p>
+							<p class="real-name">Monster Hunt 2 (2018)</p>
+						</div>
+					</a>
+				</li>
+							<li class="film-item">
+					<label class="current-status">Full 30/30 VietSub - Thuyết Minh</label>
+                    					<a href="/phim/phi-ho-chi-tiem-hanh-cuc-chien-6685.html" title="Phi Hổ Chi Tiềm Hành Cực Chiến">
+						<img alt="Phi Hổ Chi Tiềm Hành Cực Chiến" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/dy6b640e665a59c4acd1345dcbe27f6a1e-201804782.jpg" />
+						<div class="title">
+							<p class="name">Phi Hổ Chi Tiềm Hành Cực Chiến</p>
+							<p class="real-name">Flying Tiger (2018)</p>
+						</div>
+					</a>
+				</li>
+					</ul>
+		<!--End film-hot-->
+
+		
+					<div class="block-film">
+				<h2 class="caption"><i class="fa fa-th-list"></i><span>Phim bộ mới cập nhật</span> <a class="view-all" title="Phim bộ mới cập nhật" href="/danh-sach/phim-bo.html">Xem tất cả <i class="fa fa-angle-double-right"></i></a></h2>
+
+				<ul class="list-film">
+											<li class="film-item ">
+							<label class="current-status">Tập 4 VietSub</label>
+                            							<a href="/phim/ngay-sinh-ngay-tu-7378.html" title="Ngày Sinh Ngày Tử">
+								<img  alt="Ngày Sinh Ngày Tử" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/fff-201810128.jpg" />
+								<div class="title">
+									<p class="name">Ngày Sinh Ngày Tử</p>
+									<p class="real-name">Happy Birthday (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 8 VietSub</label>
+                                                           <span class="label-quality">Tập 9: Tối nay</span>
+                            							<a href="/phim/tuong-da-7474.html" title="Tương Dạ">
+								<img  alt="Tương Dạ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/16-1pf21p155j1-201810382.jpg" />
+								<div class="title">
+									<p class="name">Tương Dạ</p>
+									<p class="real-name">Ever Night (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 18 VietSub</label>
+                                                           <span class="label-quality">Tập 19: Tối nay</span>
+                            							<a href="/phim/thinh-duong-huyen-da-7383.html" title="Thịnh Đường Huyễn Dạ">
+								<img  alt="Thịnh Đường Huyễn Dạ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/thinh-duong-huyen-da-201810641.jfif" />
+								<div class="title">
+									<p class="name">Thịnh Đường Huyễn Dạ</p>
+									<p class="real-name">An Oriental Odyssey (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Tập 37 VietSub</label>
+                            							<a href="/phim/thoi-dai-lap-nghiep-7384.html" title="Thời Đại Lập Nghiệp">
+								<img  alt="Thời Đại Lập Nghiệp" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/thoi-dai-lap-nghiep-201810891.jfif" />
+								<div class="title">
+									<p class="name">Thời Đại Lập Nghiệp</p>
+									<p class="real-name">Entrepreneurial Age (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 28 VietSub</label>
+                            							<a href="/phim/thanh-xuan-cuc-toc-7382.html" title="Thanh Xuân Cực Tốc">
+								<img  alt="Thanh Xuân Cực Tốc" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/thanh-xuan-cuc-toc-201810530.jfif" />
+								<div class="title">
+									<p class="name">Thanh Xuân Cực Tốc</p>
+									<p class="real-name">Speed (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD Trailer</label>
+                                                           <span class="label-quality">Tập 1: Tối nay</span>
+                            							<a href="/phim/tro-ve-minh-trieu-lam-vuong-gia-7476.html" title="Trở Về Minh Triều Làm Vương Gia">
+								<img  alt="Trở Về Minh Triều Làm Vương Gia" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/11/300/1-201811733.jpg" />
+								<div class="title">
+									<p class="name">Trở Về Minh Triều Làm Vương Gia</p>
+									<p class="real-name">Royal Highness (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 2 VietSub</label>
+                            							<a href="/phim/nhat-ky-trung-hoc-7408.html" title="Nhật Ký Trung Học">
+								<img  alt="Nhật Ký Trung Học" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/chugaku-201810954.jpg" />
+								<div class="title">
+									<p class="name">Nhật Ký Trung Học</p>
+									<p class="real-name">Chugakusei Nikki (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Tập 4 VietSub</label>
+                            							<a href="/phim/nguoi-hung-tia-chop-phan-5-7387.html" title="Người Hùng Tia Chớp (Phần 5)">
+								<img  alt="Người Hùng Tia Chớp (Phần 5)" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/110-201810283.png" />
+								<div class="title">
+									<p class="name">Người Hùng Tia Chớp (Phần 5)</p>
+									<p class="real-name">The Flash (Season 5) (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Full 10/10 VietSub</label>
+                            							<a href="/phim/ngoi-nha-tren-doi-ma-am-7426.html" title="Ngôi Nhà Trên Đồi Ma Ám">
+								<img  alt="Ngôi Nhà Trên Đồi Ma Ám" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/1-201810497.jpg" />
+								<div class="title">
+									<p class="name">Ngôi Nhà Trên Đồi Ma Ám</p>
+									<p class="real-name">The Haunting of Hill House (Season 1) (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 9 VietSub</label>
+                            							<a href="/phim/nu-cuoi-chang-con-vuong-mat-em-7309.html" title="Nụ Cười Chẳng Còn Vương Mắt Em">
+								<img  alt="Nụ Cười Chẳng Còn Vương Mắt Em" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/16-1pf21p155j1-201809182.jpg" />
+								<div class="title">
+									<p class="name">Nụ Cười Chẳng Còn Vương Mắt Em</p>
+									<p class="real-name">The Smile Has Left Your Eyes (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 11 VietSub</label>
+                            							<a href="/phim/terius-phia-sau-toi-7327.html" title="Terius Phía Sau Tôi">
+								<img  alt="Terius Phía Sau Tôi" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/16-1pf21p155j1-201809476.jpg" />
+								<div class="title">
+									<p class="name">Terius Phía Sau Tôi</p>
+									<p class="real-name">Terius Behind Me (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Full 16/16 VietSub</label>
+                            							<a href="/phim/tham-tu-ma-7252.html" title="Thám Tử Ma">
+								<img  alt="Thám Tử Ma" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/398948973225487218495774053384104383610880n-201809242.jpg" />
+								<div class="title">
+									<p class="name">Thám Tử Ma</p>
+									<p class="real-name">The Ghost Detective (2018)</p>
+								</div>
+							</a>
+						</li>
+									</ul>
+			</div>
+			
+					<div class="block-film">
+				<h2 class="caption"><i class="fa fa-th-list"></i> <span>Phim lẻ mới cập nhật</span> <a class="view-all" title="Phim lẻ mới cập nhật" href="/danh-sach/phim-le.html">Xem tất cả <i class="fa fa-angle-double-right"></i></a></h2>
+
+				<ul class="list-film">
+											<li class="film-item ">
+							<label class="current-status">HD VietSub</label>
+                            							<a href="/phim/nhung-cau-chuyen-ben-song-7478.html" title="Những Câu Chuyện Bên Sông">
+								<img  alt="Những Câu Chuyện Bên Sông" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/11/300/xe22of-201811399.jpg" />
+								<div class="title">
+									<p class="name">Những Câu Chuyện Bên Sông</p>
+									<p class="real-name">River's Edge (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD Thuyết Minh</label>
+                            							<a href="/phim/thien-ha-de-nhat-tieu-cuc-7477.html" title="Thiên Hạ Đệ Nhất Tiêu Cục">
+								<img  alt="Thiên Hạ Đệ Nhất Tiêu Cục" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/11/300/16-1pf21p155j1-201811797.jpg" />
+								<div class="title">
+									<p class="name">Thiên Hạ Đệ Nhất Tiêu Cục</p>
+									<p class="real-name">The Bravest Escort Group (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD Thuyết Minh</label>
+                            							<a href="/phim/moc-22-7473.html" title="Mốc 22">
+								<img  alt="Mốc 22" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/1-201810245.jpg" />
+								<div class="title">
+									<p class="name">Mốc 22</p>
+									<p class="real-name">Mile 22 (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">HD Thuyết Minh</label>
+                            							<a href="/phim/tro-choi-giai-ma-7472.html" title="Trò Chơi Giải Mã">
+								<img  alt="Trò Chơi Giải Mã" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/mv5bognhytg1mzktmtkyyy00otewltkzntytywu3ytbhntm0zmfjxkeyxkfqcgdeqxvynja2otcwnze-201810674.v1sy1000cr007141000al" />
+								<div class="title">
+									<p class="name">Trò Chơi Giải Mã</p>
+									<p class="real-name">Reborn (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD VietSub</label>
+                            							<a href="/phim/ac-quy-ma-so-7394.html" title="Ác Quỷ Ma Sơ">
+								<img  alt="Ác Quỷ Ma Sơ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/mv5bmjewmde1nzi3m15bml5banbnxkftztgwnjg2njexnjm-201810894.v1" />
+								<div class="title">
+									<p class="name">Ác Quỷ Ma Sơ</p>
+									<p class="real-name">The Nun (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD VietSub</label>
+                            							<a href="/phim/ban-trai-cu-toi-la-diep-vien-7450.html" title="Bạn Trai Cũ Tôi Là Điệp Viên">
+								<img  alt="Bạn Trai Cũ Tôi Là Điệp Viên" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/1-201810900.jpg" />
+								<div class="title">
+									<p class="name">Bạn Trai Cũ Tôi Là Điệp Viên</p>
+									<p class="real-name">The Spy Who Dumped Me (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD VietSub + Thuyết Minh</label>
+                            							<a href="/phim/ca-map-sieu-bao-chua-7067.html" title="Cá Mập Siêu Bạo Chúa">
+								<img  alt="Cá Mập Siêu Bạo Chúa" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/300/16-1pf21p155j1-201807495.jpg" />
+								<div class="title">
+									<p class="name">Cá Mập Siêu Bạo Chúa</p>
+									<p class="real-name">The Meg (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">HD VietSub</label>
+                            							<a href="/phim/biet-doi-thu-cung-7471.html" title="Biệt Đội Thú Cưng">
+								<img  alt="Biệt Đội Thú Cưng" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/mv5bzddjowmwnjytnwe3zi00y2jjltgzoditntg1yjnjm2u3zwmyxkeyxkfqcgdeqxvymjm4ntm5ndy-201810844.v1sy1000sx675al" />
+								<div class="title">
+									<p class="name">Biệt Đội Thú Cưng</p>
+									<p class="real-name">Show Dogs (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD VietSub</label>
+                            							<a href="/phim/bao-thai-quy-7446.html" title="Bào Thai Quỷ">
+								<img  alt="Bào Thai Quỷ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/16-1pf21p155j1-201810821.jpg" />
+								<div class="title">
+									<p class="name">Bào Thai Quỷ</p>
+									<p class="real-name">Malicious (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Cam VietSub</label>
+                            							<a href="/phim/quai-thu-vo-hinh-7358.html" title="Quái Thú Vô Hình">
+								<img  alt="Quái Thú Vô Hình" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/16-1pf21p155j1-201810560.jpg" />
+								<div class="title">
+									<p class="name">Quái Thú Vô Hình</p>
+									<p class="real-name">The Predator (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">HD VietSub + Thuyết Minh</label>
+                            							<a href="/phim/a-x-l-chu-cho-robot-7357.html" title="A-X-L Chú Chó Robot">
+								<img  alt="A-X-L Chú Chó Robot" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/16-1pf21p155j1-201810321.jpg" />
+								<div class="title">
+									<p class="name">A-X-L Chú Chó Robot</p>
+									<p class="real-name">A-X-L (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Cam VietSub</label>
+                            							<a href="/phim/johnny-english-tai-xuat-giang-ho-7069.html" title="Johnny English: Tái Xuất Giang Hồ">
+								<img  alt="Johnny English: Tái Xuất Giang Hồ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/300/16-1pf21p155j1-201807529.jpg" />
+								<div class="title">
+									<p class="name">Johnny English: Tái Xuất Giang Hồ</p>
+									<p class="real-name">Johnny English: Strikes Again (2018)</p>
+								</div>
+							</a>
+						</li>
+									</ul>
+			</div>
+			
+					<div class="block-film">
+				<h2 class="caption"><i class="fa fa-th-list"></i> <span>Phim hoạt hình</span> <a class="view-all" title="Phim hoạt hình" href="/the-loai/hoat-hinh-55.html">Xem tất cả <i class="fa fa-angle-double-right"></i></a></h2>
+
+				<ul class="list-film">
+											<li class="film-item ">
+							<label class="current-status">Full 12/12 VietSub</label>
+                            							<a href="/phim/trach-thien-ky-phan-4-2018-7192.html" title="Trạch Thiên Ký Phần 4 (2018)">
+								<img  alt="Trạch Thiên Ký Phần 4 (2018)" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/08/300/16-1pf21p155j1-201808812.jpg" />
+								<div class="title">
+									<p class="name">Trạch Thiên Ký Phần 4 (2018)</p>
+									<p class="real-name"></p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 16 VietSub</label>
+                            							<a href="/phim/nga-quy-tokyo-phan-3-6719.html" title="Ngạ Quỷ Tokyo (Phần 3)">
+								<img  alt="Ngạ Quỷ Tokyo (Phần 3)" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/04/300/main-3-1080x1518-201804791.jpg" />
+								<div class="title">
+									<p class="name">Ngạ Quỷ Tokyo (Phần 3)</p>
+									<p class="real-name">Tokyo Ghoul: re (Season 3) (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 41 VietSub</label>
+                                                           <span class="label-quality">Phần 4</span>
+                            							<a href="/phim/bi-kip-luyen-rong-huong-toi-tram-rong-2016-3556.html" title="Bí Kíp Luyện Rồng: Hướng Tới Trạm Rồng 2016">
+								<img  alt="Bí Kíp Luyện Rồng: Hướng Tới Trạm Rồng 2016" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2016/12/300/1-201612322-201612122.jpg" />
+								<div class="title">
+									<p class="name">Bí Kíp Luyện Rồng: Hướng Tới Trạm Rồng 2016</p>
+									<p class="real-name"></p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Tập 56 VietSub</label>
+                            							<a href="/phim/black-clover-2017-5974.html" title="Black Clover (2017)">
+								<img  alt="Black Clover (2017)" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2017/10/300/black-clover-2017-201710934.jpg" />
+								<div class="title">
+									<p class="name">Black Clover (2017)</p>
+									<p class="real-name"></p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 74 VietSub</label>
+                            							<a href="/phim/yu-gi-oh-vrains-5130.html" title="Yu-Gi-Oh! VRAINS">
+								<img  alt="Yu-Gi-Oh! VRAINS" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2017/05/300/yu-gi-oh-vrains-2017-201705134.jpg" />
+								<div class="title">
+									<p class="name">Yu-Gi-Oh! VRAINS</p>
+									<p class="real-name">Yuu Gi Ou!, Yugioh (2017)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 7 VietSub</label>
+                            							<a href="/phim/tham-kiem-tam-2018-7312.html" title="Thẩm Kiếm Tâm 2018">
+								<img  alt="Thẩm Kiếm Tâm 2018" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/300/16-1pf21p155j1-201809913.jpg" />
+								<div class="title">
+									<p class="name">Thẩm Kiếm Tâm 2018</p>
+									<p class="real-name"></p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 19 VietSub</label>
+                            							<a href="/phim/vo-si-baki-7138.html" title="Võ Sĩ Baki">
+								<img  alt="Võ Sĩ Baki" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/08/300/1-201808839.jpg" />
+								<div class="title">
+									<p class="name">Võ Sĩ Baki</p>
+									<p class="real-name">Baki (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Tập 79 VietSub</label>
+                            							<a href="/phim/boruto-naruto-the-he-tiep-theo-4653.html" title="Boruto: Naruto Thế Hệ Tiếp Theo">
+								<img  alt="Boruto: Naruto Thế Hệ Tiếp Theo" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2017/04/300/boruto-naruto-next-generations-2017-201704963.jpg" />
+								<div class="title">
+									<p class="name">Boruto: Naruto Thế Hệ Tiếp Theo</p>
+									<p class="real-name">Boruto: Naruto Next Generations (2017)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 5 VietSub</label>
+                            							<a href="/phim/bay-vien-ngoc-rong-hanh-tinh-hac-am-6989.html" title="Bảy Viên Ngọc Rồng: Hành Tinh Hắc Ám">
+								<img  alt="Bảy Viên Ngọc Rồng: Hành Tinh Hắc Ám" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/07/300/5d7d7388ea3a25cd78d12da440ddf0b5-201807232.jpg" />
+								<div class="title">
+									<p class="name">Bảy Viên Ngọc Rồng: Hành Tinh Hắc Ám</p>
+									<p class="real-name">Dragon Ball Heroes: Universe Mission (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 859 VietSub</label>
+                            							<a href="/phim/one-piece-vua-hai-tac-339.html" title="One Piece Vua Hải Tặc">
+								<img  alt="One Piece Vua Hải Tặc" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2015/12/300/vua-hai-tac-one-piece-201512562.jpg" />
+								<div class="title">
+									<p class="name">One Piece Vua Hải Tặc</p>
+									<p class="real-name">Đảo Hải Tặc Hải Tặc Mũ Rơm (1999)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item ">
+							<label class="current-status">Tập 4 VietSub</label>
+                            							<a href="/phim/hoi-phap-su-phan-cuoi-7376.html" title="Hội Pháp Sư (Phần Cuối)">
+								<img  alt="Hội Pháp Sư (Phần Cuối)" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/2-201810759.jpg" />
+								<div class="title">
+									<p class="name">Hội Pháp Sư (Phần Cuối)</p>
+									<p class="real-name">Fairy Tail: Final Series (2018)</p>
+								</div>
+							</a>
+						</li>
+											<li class="film-item no-margin-right">
+							<label class="current-status">Tập 2 VietSub</label>
+                            							<a href="/phim/hoa-giang-ho-chi-bat-luong-nhan-phan-3-7455.html" title="Họa Giang Hồ Chi Bất Lương Nhân Phần 3">
+								<img  alt="Họa Giang Hồ Chi Bất Lương Nhân Phần 3" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/300/16-1pf21p155j1-201810274.jpg" />
+								<div class="title">
+									<p class="name">Họa Giang Hồ Chi Bất Lương Nhân Phần 3</p>
+									<p class="real-name"></p>
+								</div>
+							</a>
+						</li>
+									</ul>
+			</div>
+			
+			</div> <!-- End left-content-->
+    <div class="right-content">
+        <div class="block">
+    <div class="fb-page" data-href="https://www.facebook.com/ginmovies.me/" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ginmovies.me"><a href="https://www.facebook.com/ginmovies.me">Facebook</a></blockquote></div></div>
+</div>
+<div style="margin-bottom: 5px; text-align: center; border: 1px dotted #FFF;"><script type="text/javascript">if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 44769, "index": BB_ind});</script><script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script><script type="text/javascript">if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 44770, "index": BB_ind});</script><script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script><script type="text/javascript">if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 44771, "index": BB_ind});</script><script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script></div><div class="most-view block">
+    <div class="caption">
+        <span class="uppercase">Phim xem nhiều</span>
+    </div>
+    <div class="tabs">
+        <div data-id="d" class="tab active">Ngày</div>
+        <div data-id="w" class="tab">Tuần</div>
+        <div data-id="m" class="tab">Tháng</div>
+    </div>
+    <div class="clear"></div>
+    <ul class="list-film">
+                <li class="film-item-ver">
+            <a href="/phim/terius-phia-sau-toi-7327.html" title="Terius Phía Sau Tôi">
+                <img class="avatar" alt="Terius Phía Sau Tôi" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/75/16-1pf21p155j1-201809476.jpg" />
+                <div class="title">
+                    <p class="name">Terius Phía Sau Tôi</p>
+                    <p class="real-name">Terius Behind Me (2018)</p>
+                </div>
+            </a>
+            <p class="view">9.168 lượt xem</p>
+            <p class="star" data-rating="3.905"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/lang-quan-100-ngay-7147.html" title="Lang Quân 100 Ngày">
+                <img class="avatar" alt="Lang Quân 100 Ngày" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/75/100daysmyprince-p1-201809513.jpg" />
+                <div class="title">
+                    <p class="name">Lang Quân 100 Ngày</p>
+                    <p class="real-name">100 Days My Prince (2018)</p>
+                </div>
+            </a>
+            <p class="view">5.080 lượt xem</p>
+            <p class="star" data-rating="3.825"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/phac-hoa-ke-sat-nhan-6859.html" title="Phác Họa Kẻ Sát Nhân">
+                <img class="avatar" alt="Phác Họa Kẻ Sát Nhân" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/05/75/sketch-2018-201805715.jpg" />
+                <div class="title">
+                    <p class="name">Phác Họa Kẻ Sát Nhân</p>
+                    <p class="real-name">Sketch (2018)</p>
+                </div>
+            </a>
+            <p class="view">1.122 lượt xem</p>
+            <p class="star" data-rating="3.505"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/song-the-sung-phi-2-7424.html" title="Song Thế Sủng Phi 2">
+                <img class="avatar" alt="Song Thế Sủng Phi 2" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/75/song-the-sung-phi-2-2018-201810576.jpg" />
+                <div class="title">
+                    <p class="name">Song Thế Sủng Phi 2</p>
+                    <p class="real-name">The Eternal Love 2 (2018)</p>
+                </div>
+            </a>
+            <p class="view">658 lượt xem</p>
+            <p class="star" data-rating="3.915"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/noi-anh-sao-soi-chieu-7348.html" title="Nơi Ánh Sao Soi Chiếu">
+                <img class="avatar" alt="Nơi Ánh Sao Soi Chiếu" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/75/wherestarsland-p1-201810646.jpg" />
+                <div class="title">
+                    <p class="name">Nơi Ánh Sao Soi Chiếu</p>
+                    <p class="real-name">Where Star Lands (2018)</p>
+                </div>
+            </a>
+            <p class="view">513 lượt xem</p>
+            <p class="star" data-rating="3.49"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/tuong-da-7474.html" title="Tương Dạ">
+                <img class="avatar" alt="Tương Dạ" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/75/16-1pf21p155j1-201810382.jpg" />
+                <div class="title">
+                    <p class="name">Tương Dạ</p>
+                    <p class="real-name">Ever Night (2018)</p>
+                </div>
+            </a>
+            <p class="view">455 lượt xem</p>
+            <p class="star" data-rating="4.75"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/song-the-sung-phi-5567.html" title="Song Thế Sủng Phi">
+                <img class="avatar" alt="Song Thế Sủng Phi" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2017/07/75/song-the-sung-phi-201707150.jpg" />
+                <div class="title">
+                    <p class="name">Song Thế Sủng Phi</p>
+                    <p class="real-name">The Eternal Love (2017)</p>
+                </div>
+            </a>
+            <p class="view">454 lượt xem</p>
+            <p class="star" data-rating="3.72"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/thoi-dai-lap-nghiep-7384.html" title="Thời Đại Lập Nghiệp">
+                <img class="avatar" alt="Thời Đại Lập Nghiệp" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/75/thoi-dai-lap-nghiep-201810891.jfif" />
+                <div class="title">
+                    <p class="name">Thời Đại Lập Nghiệp</p>
+                    <p class="real-name">Entrepreneurial Age (2018)</p>
+                </div>
+            </a>
+            <p class="view">443 lượt xem</p>
+            <p class="star" data-rating="4.16"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/duong-chuyen-7469.html" title="Đường Chuyên">
+                <img class="avatar" alt="Đường Chuyên" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/10/75/16-1pf21p155j1-201810813.jpg" />
+                <div class="title">
+                    <p class="name">Đường Chuyên</p>
+                    <p class="real-name">Tang Dynasty Tour (2018)</p>
+                </div>
+            </a>
+            <p class="view">363 lượt xem</p>
+            <p class="star" data-rating="3.835"></p>
+        </li>
+                <li class="film-item-ver">
+            <a href="/phim/dau-pha-thuong-khung-7248.html" title="Đấu Phá Thương Khung">
+                <img class="avatar" alt="Đấu Phá Thương Khung" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.net/uploads/2018/09/75/fa-201809853.png" />
+                <div class="title">
+                    <p class="name">Đấu Phá Thương Khung</p>
+                    <p class="real-name">Fights Break Sphere (2018)</p>
+                </div>
+            </a>
+            <p class="view">359 lượt xem</p>
+            <p class="star" data-rating="3.48"></p>
+        </li>
+            </ul>
+</div> <!-- End most-view -->
+<script src="http://media.bilutv.net/js/jquery.raty.js?v=1.2"></script>
+<script>
+    $(document).ready(function(){
+        $(".most-view .tab").click(function(){
+            var type = $(this).attr('data-id');
+            $(".most-view .list-film").html("");
+            $(".most-view .tab").removeClass('active');
+            $(this).addClass('active');
+            var data={'type':type}
+            var success_fnc = function(data){
+                $(".most-view .list-film").html(data);   
+                $('.star').raty({
+                    readOnly : true,
+                    numberMax : 5,
+                    half  : true,
+                    score: function() {
+                        return $(this).attr('data-rating');
+                    },
+                    space : false
+                });
+            }
+            handleAjax('/film/AjaxView','POST','',data,success_fnc);
+            
+        });
+          
+        $('.star').raty({
+            readOnly : true,
+            numberMax : 5,
+            half  : true,
+            score: function() {
+                return $(this).attr('data-rating');
+            },
+			hints:["Không hay","Tạm được","Hay","Rất hay","Tuyệt vời"],
+            space : false
+        });  
+    })
+</script>        <div class="block tagcloud">
+   <div class="caption">
+      <span class="uppercase"><i class="fa fa-tags"></i>Tags</span>
+   </div>
+   <ul class="tags">
+               <li class="tag-item"><a class="level-10" href="/tag/yeu-lai-tu-dau-1282.html" title="Yêu Lại Từ Đầu">Yêu Lại Từ Đầu</a></li>
+               <li class="tag-item"><a class="level-10" href="/tag/mao-hiem-tim-kiem-tinh-yeu-1189.html" title="Mạo Hiểm Tìm Kiếm Tình Yêu">Mạo Hiểm Tìm Kiếm Tình Yêu</a></li>
+               <li class="tag-item"><a class="level-5" href="/tag/than-tham-noi-tro-786.html" title="Thần Thám Nội Trợ">Thần Thám Nội Trợ</a></li>
+               <li class="tag-item"><a class="level-3" href="/tag/thai-tu-phi-thang-chuc-ky-506.html" title="Thái Tử Phi Thăng Chức Ký">Thái Tử Phi Thăng Chức Ký</a></li>
+               <li class="tag-item"><a class="level-8" href="/tag/ky-uc-322.html" title="Ký Ức">Ký Ức</a></li>
+               <li class="tag-item"><a class="level-6" href="/tag/phap-su-vo-tam-207.html" title="Pháp Sư Vô Tâm">Pháp Sư Vô Tâm</a></li>
+               <li class="tag-item"><a class="level-5" href="/tag/co-gai-tren-cay-sa-ke-183.html" title="Cô Gái Trên Cây Sa Kê">Cô Gái Trên Cây Sa Kê</a></li>
+               <li class="tag-item"><a class="level-9" href="/tag/tan-te-cong-143.html" title="Tân Tế Công">Tân Tế Công</a></li>
+               <li class="tag-item"><a class="level-9" href="/tag/mi-nguyet-truyen-2015-139.html" title="Mị Nguyệt Truyện 2015">Mị Nguyệt Truyện 2015</a></li>
+               <li class="tag-item"><a class="level-10" href="/tag/mi-nguyet-truyen-138.html" title="Mị Nguyệt Truyện">Mị Nguyệt Truyện</a></li>
+               <li class="tag-item"><a class="level-6" href="/tag/tan-thoi-minh-nguyet-ban-truyen-hinh-130.html" title="Tần Thời Minh Nguyệt bản Truyền hình">Tần Thời Minh Nguyệt bản Truyền hình</a></li>
+               <li class="tag-item"><a class="level-6" href="/tag/tan-thoi-minh-nguyet-127.html" title="Tần Thời Minh Nguyệt">Tần Thời Minh Nguyệt</a></li>
+               <li class="tag-item"><a class="level-4" href="/tag/nu-than-cua-toi-85.html" title="Nữ Thần Của Tôi">Nữ Thần Của Tôi</a></li>
+         </ul>
+</div>
+    </div>
+    
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){
+		//Top slide aaa
+		$("#top-slide").owlCarousel({
+			singleItem:true,
+			autoPlay:true,
+			slideSpeed:200,
+			lazyLoad : true,
+			stopOnHover:true,
+            navigation : true,
+            navigationText : ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
+		});
+
+		//Film-hot slide
+		$("#film-hot").owlCarousel({
+			items:4,
+			itemsTablet: [700,3],
+			itemsMobile : [479,2],
+			lazyLoad:true,
+			navigation : true,
+            scrollPerPage:true,
+			slideSpeed : 800,
+			paginationSpeed : 400,
+			stopOnHover:true,
+			pagination:false,
+			autoPlay:8000,
+			navigationText : ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
+            
+		});
+
+		//Lazyload image
+		$("img.lazy").lazyload({
+			effect : "fadeIn"
+		});
+
+		function createCookie(name, value, second) {
+			var expires;
+			if (second) {
+				var date = new Date();
+				date.setTime(date.getTime() + (second  * 1000));
+				expires = "; expires=" + date.toGMTString();
+			}
+			else {
+				expires = "";
+			}
+			document.cookie = name + "=" + value + expires + "; path=/";
+		}
+		function getCookie(c_name) {
+			if (document.cookie.length > 0) {
+				c_start = document.cookie.indexOf(c_name + "=");
+				if (c_start != -1) {
+					c_start = c_start + c_name.length + 1;
+					c_end = document.cookie.indexOf(";", c_start);
+					if (c_end == -1) {
+						c_end = document.cookie.length;
+					}
+					return unescape(document.cookie.substring(c_start, c_end));
+				}
+			}
+			return "";
+		};
+		var clientip = 1
+		if(clientip != "1") {
+			$.get("http://bilutv.net/ip.php?t="+Date.now(), function(data) {
+				if(data != "VN") {
+					window.location = "/xac-nhan-quoc-gia.html?rel=http://bilutv.net/";
+				} else {
+					createCookie("check_is_vn", 1, 172800);	
+				}
+			});
+		}
+	});
+</script></div><!-- content -->
+</div>
+<div id="footer">
+    <div class="container">
+        <div class="content">
+           <div class="views-row views-row-1">
+              <div class="logo-footer">
+                 <a href="http://bilutv.net"><img alt="logo" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://media.bilutv.nethttp://ginmovies.me/logo.png"/></a>
+              </div>
+              <div class="copy-right">
+                 <p>
+                    Copyright &copy; 2018 BiluTV.net. All Rights Reserved. Nội dung được chia sẻ miễn phí giữa các thành viên.
+                 </p>
+              </div>
+              <div class="social">
+                 <ul>
+                    <li class="facebook"><a href="https://www.facebook.com/ginmovies.me"><i class="fa fa-facebook-official"></i></a></li>
+                    <li class="twiter"><a href="https://www.facebook.com/ginmovies.me"><i class="fa fa-twitter-square"></i></a></li>
+                    <li class="in"><a href="https://www.facebook.com/ginmovies.me"><i class="fa fa-linkedin-square"></i></a></li>
+                 </ul>
+              </div>
+           </div>
+           
+                      <div class="views-row views-row-2">
+              <p>Giới thiệu</p>
+              <ul class="list-unstyled">
+                 <li><a href="http://bilutv.net/">Trang chủ</a></li>
+                 <li><a href="#">Giới thiệu</a></li>
+                 <li><a target="_blank" href="https://www.facebook.com/ginmovies.me/">Facebook</a></li>
+              </ul>
+           </div>
+           <div class="views-row views-row-3">
+              <p>Đóng góp</p>
+              <ul class="list-unstyled">
+                 <li><a href="#">Hợp tác nội dung</a></li>
+                 <li><a href="javascript:void(0)">Hướng dẫn sử dụng</a></li>
+                 <li><a href="#">Liên hệ quảng cáo</a></li>
+              </ul>
+           </div>
+           <div class="views-row views-row-4">
+              <p>Quy định</p>
+              <ul class="list-unstyled">
+                 <li><a href="#">Điều khoản sử dụng</a></li>
+                 <li><a href="javascript:void(0)">Chính sách riêng tư</a></li>
+                 <li><a href="#">Khiếu nại bản quyền</a></li>
+              </ul>
+           </div>
+           <div class="views-row views-row-5">
+              <p>Trợ giúp</p>
+              <ul class="list-unstyled">
+                 <li><a href="javascript:void(0)">Hỏi đáp</a></li>
+                 <li><a href="#">Liên hệ</a></li>
+                 <li><a href="javascript:void(0)">Tin tức</a></li>
+              </ul>
+           </div>
+                   </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!-- Plugin facebook -->
+<script async>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '508308149306202',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script><div class="hide" id="overlay_menu" onclick="$('.btn-humber').click()"></div>
+<style type="text/css">
+	#balloon_left_1, .send-message{display: none !important;}
+    #header{background: #00BCD4!important;}
+    .form-search button{background: #ff3378!important;}
+    #main-menu>.container{background: #FF9800!important;}
+    #main-menu .sub-menu{background-color: rgb(249, 173, 63)!important;}
+    #main-menu.desktop ul>li>a:hover{color: #000000!important; background: #ffffffa8!important;}
+    .block-film .caption, #film-trailer .caption{background: #4CAF50!important;}
+    #footer{background: #000000!important;}
+    #footer .views-row .copy-right, #footer .views-row a{color: #fff!important;}
+    .right-content .block .caption{background: #4CAF50!important;}
+    .tags a{background: #00BCD4!important;}
+    .tags a:before{border-color: transparent #00BCD4 transparent transparent;}
+    #main-menu.fix-nav{background: #00BCD4!important;}
+    .meta-data li a {color: #34c5ff!important;}
+    .broadcast{padding: 10px; background: #282828;}
+    .pagination{text-align: center!important;}
+    .form-filter .btn{background: #27a761!important;}
+    .form-filter .btn:hover{background: #279aa7!important;}
+    .pagination ul li a.disabled{opacity: 1!important;}
+    .pagination { background: rgba(0,0,0,.5); padding: 5px; border: 2px dotted #fff601; text-align: center!important; }
+    .form-filter{background: rgba(0,0,0,.5);}
+    .list-film .film-item .current-status{height: 20px!important;background: #8BC34A!important;overflow: hidden!important;}
+	.tags a{background:#00BCD4!important}
+	.tags a:before{border-color: transparent #00BCD4 transparent transparent;}
+	.tags a:hover:before{transparent #00BCD4 transparent transparent;}
+	.list-film .film-item .title .real-name, .list-film .film-item .title .name{color: #00ff0a!important;}
+	.list-film .film-item-ver .name{color: #00ff0a!important;}
+</style>
+<script type='text/javascript'>
+//<![CDATA[
+    jQuery.cookie = function (a, b, c) {
+        if (arguments.length > 1 && "[object Object]" !== String(b)) {
+            if (c = jQuery.extend({}, c), null !== b && void 0 !== b || (c.expires = -1), "number" == typeof c.expires) {
+                var d = c.expires, e = c.expires = new Date;
+                e.setDate(e.getDate() + d)
+            }
+            return b = String(b), document.cookie = [encodeURIComponent(a), "=", c.raw ? b : encodeURIComponent(b), c.expires ? "; expires=" + c.expires.toUTCString() : "", c.path ? "; path=" + c.path : "", c.domain ? "; domain=" + c.domain : "", c.secure ? "; secure" : ""].join("")
+        }
+        c = b || {};
+        var f, g = c.raw ? function (a) {
+            return a
+        } : decodeURIComponent;
+        return(f = new RegExp("(?:^|; )" + encodeURIComponent(a) + "=([^;]*)").exec(document.cookie)) ? g(f[1]) : null
+    };
+//]]>
+</script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $('.refresh_cache').click(function(event) {
+            $.ajax({
+                type: "POST",
+                url: "http://videohot.co/ajax.php",
+                data: "url="+window.location.href+"&refresh_cache=true",
+                success: function(data){
+                    location.reload();
+                }
+            });
+            return false;
+        });
+        
+    });
+</script></body>
+<div style="position:fixed;left:0;bottom:0"></div><div style="position:fixed;right:0;bottom:0;z-index:11"></div></html>
