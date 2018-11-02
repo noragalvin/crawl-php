@@ -1,0 +1,622 @@
+<!doctype html>
+<!--[if lt IE 8 ]><html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <title>Gin Manga - Read Manga Online for Free | Latest Manga Updates
+</title>
+        <meta name="description" content="Read your favorite manga scans and scanlations online at read manhua. Read Manga Online, Absolutely Free and Updated Daily.
+"/>
+        <meta name="keywords" content="tales of demon and gos, holy ancestor, lord xue ying,manga,read manga,read manga online,manga online,online manga,manga reader, manga scans,english manga,naruto manga,bleach manga, one piece manga,manga chapter,read free manga,free manga,read free manga online,manga viewer, readmanga.today. readmng.net, readmng.com, batoto, mangadex, trashscans, trashscanlations, trashscanlations.com, kissmanga, mangakakalot, kiss manga, manga kakalot,
+"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta property="og:image" content="https://readmanhua.net/logo.jpg" />
+  	  
+                
+        <meta name="google-site-verification" content="" />
+        
+                                <link rel="shortcut icon" href="https://readmanhua.net/uploads/favicon.jpg">
+                
+        <link rel="canonical" href="https://readmanhua.net"/>
+
+        <link rel="stylesheet" href="https://readmanhua.net/css/bootswatch/slate/bootstrap.min.css"/>
+        <link rel="stylesheet" href="https://readmanhua.net/css/style.css"/>
+        <link rel="stylesheet" href="https://readmanhua.net/css/font-awesome.min.css"/>
+
+        <script src="https://readmanhua.net/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/jquery-1.11.0.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/bootstrap.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/jquery.autocomplete.min.js"></script>
+        <script src="https://readmanhua.net/js/main.js"></script>
+
+        
+        
+        <!--[if lt IE 9]>
+        <script src="https://readmanhua.net/js/vendor/html5shiv.js"></script>
+        <script src="https://readmanhua.net/js/vendor/respond.min.js"></script>
+        <![endif]-->
+        <script>if (window != top)
+    top.location.href = location.href</script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+	
+</style></head>
+    <body class=" layout-boxed ">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+                <!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', "UA-114980388-1", 'auto');
+  ga('send', 'pageview');
+
+</script>        
+        <div class="wrapper">
+            <!-- Website Menu -->
+            <nav class="navbar navbar-default" role="navigation">
+    <div class=" container ">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+            </button> 
+            <h1 class="navbar-brand-logo " style="margin:0;">
+                <a class="navbar-brand" href="https://readmanhua.net">
+                                        <img alt="Gin Manga" src="logo.png"/>
+                    <span style="display: none">Gin Manga</span>
+                                    </a>
+            </h1>
+        </div>
+        <div class="navbar-custom-menu">
+            <ul class="nav navbar-nav  navbar-right ">
+                                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> <span class="caret"></span></a>
+                    <ul class="dropdown-menu profil-menu">
+                                                <li>
+                            <a href="https://readmanhua.net/auth/register">
+                                <i class="fa fa-pencil-square-o"></i> Subscribe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://readmanhua.net/auth/login">
+                                <i class="fa fa-sign-in"></i> Login
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                                <li class="search dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+                    <div class="dropdown-menu">
+                        <form class="navbar-form">
+                            <div class="navbar-form  navbar-right " role="search">
+                                <div class="form-group">
+                                    <input id="autocomplete" class="form-control" type="text" placeholder="Search..." style="border-radius:0;"/>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </li>
+                <!-- Notifications Menu -->
+                                                                </ul>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-menu">
+            <!-- menu -->
+            <ul class="nav navbar-nav  navbar-right ">
+                                <li >
+     <a href="https://readmanhua.net"
+      title="Home">
+      <i class="fa fa-home"></i>
+                Home
+    </a>
+</li>
+<li >
+     <a href="http://localhost/crawl-php/manga-list"
+      title="All List">
+      <i class="fa fa-th-large"></i>
+                All List
+    </a>
+</li>
+<li >
+     <a href="http://localhost/crawl-php/latest-release"
+      title="Latest ">
+      <i class="fa fa-list"></i>
+                Latest 
+    </a>
+</li>
+<li >
+     <a href="https://readmanhua.net/support-us"
+      title="Support Us">
+      <i class="fa fa-gift "></i>
+                Support Us
+    </a>
+</li>
+
+                            </ul>
+        </div>
+    </div>
+</nav>
+
+<style>
+    .searching {
+        background-image: url('https://readmanhua.net/images/ajax-loader.gif');
+        background-position: 95% 50%;
+        background-repeat: no-repeat;
+    }
+</style>
+<script>
+    $('#autocomplete').autocomplete({
+        serviceUrl: "https://readmanhua.net/search",
+        onSearchStart: function (query) {
+            $('#autocomplete').addClass('searching');
+        },
+        onSearchComplete: function (query, suggestions) {
+            $('#autocomplete').removeClass('searching');
+        },
+        onSelect: function (suggestion) {
+            showURL = "http://localhost/crawl-php/manga/SELECTION";
+            window.location.href = showURL.replace('SELECTION', suggestion.data);
+        }
+    });
+</script>
+            <!--/ Website Menu -->
+
+            <div class=" container ">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2 class="listmanga-header">
+    <i class="fa fa-calendar-o"></i>Latest Manga Updates
+</h2>
+<hr/>
+
+<div class="mangalist">
+            <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        28/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/immortal-merchant/12">#12. Chapter 12</a>
+            </h6>
+        </div>
+            </div>
+        <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/munchkin-quest">Munchkin Quest</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        28/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/munchkin-quest/7">#7. Chapter 07</a>
+            </h6>
+        </div>
+            </div>
+        <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/holy-ancestor">Holy Ancestor</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        28/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/holy-ancestor/66">#66. Chapter 66</a>
+            </h6>
+        </div>
+            </div>
+                <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens">I Shall Seal The Heavens</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        27/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/54">#54. Chapter 54</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/53">#53. Chapter 53</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/52">#52. Chapter 52</a>
+            </h6>
+        </div>
+            </div>
+        <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/chaotic-sword-god">Chaotic Sword God</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        27/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/chaotic-sword-god/40">#40. Chapter 40</a>
+            </h6>
+        </div>
+            </div>
+                <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        26/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/immortal-merchant/11">#11. Chapter 11</a>
+            </h6>
+        </div>
+            </div>
+                <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/bai-he-lily">Bai He (Lily)</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        25/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/bai-he-lily/6">#6. Chapter 06</a>
+            </h6>
+        </div>
+            </div>
+                <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/lord-xue-ying">Lord Xue Ying</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        24/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/lord-xue-ying/25">#25. Chapter 25</a>
+            </h6>
+        </div>
+            </div>
+                <div class="manga-item">
+        <h3 class="manga-heading  pull-left ">
+            <i class="fa fa-book"></i>
+            <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens">I Shall Seal The Heavens</a>
+                        <span class="label label-danger">hot</span>
+                    </h3>
+        <small class=" pull-right " style="direction: ltr;">  
+                        23/9/2018
+                    </small>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/51">#51. Chapter 51</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/50">#50. Chapter 50</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/49">#49. Chapter 49</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/48">#48. Chapter 48</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/47">#47. Chapter 47</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/46">#46. Chapter 46</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/45">#45. Chapter 45</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/44">#44. Chapter 44</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/43">#43. Chapter 43</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/42">#42. Chapter 42</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/41">#41. Chapter 41</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/40">#40. Chapter 40</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/39">#39. Chapter 39</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/38">#38. Chapter 38</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/37">#37. Chapter 37</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/36">#36. Chapter 36</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/35">#35. Chapter 35</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/34">#34. Chapter 34</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/33">#33. Chapter 33</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/32">#32. Chapter 32</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/31">#31. Chapter 31</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/30">#30. Chapter 30</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/29">#29. Chapter 29</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/28">#28. Chapter 28</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/27">#27. Chapter 27</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/26">#26. Chapter 26</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/25">#25. Chapter 25</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/24">#24. Chapter 24</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/23">#23. Chapter 23</a>
+            </h6>
+        </div>
+                <div class="manga-chapter">
+            <h6 class="events-subtitle">
+                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/22">#22. Chapter 22</a>
+            </h6>
+        </div>
+            </div>
+                
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <ul class="pagination">
+        
+                    <li><a href="http://localhost/crawl-php/latest-release?page=1" rel="prev">&laquo;</a></li>
+        
+        
+                    
+            
+            
+                                                                        <li><a href="http://localhost/crawl-php/latest-release?page=1">1</a></li>
+                                                                                <li class="active"><span>2</span></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=3">3</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=4">4</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=5">5</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=6">6</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=7">7</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=8">8</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=9">9</a></li>
+                                                                                <li><a href="http://localhost/crawl-php/latest-release?page=10">10</a></li>
+                                                        
+        
+                    <li><a href="http://localhost/crawl-php/latest-release?page=3" rel="next">&raquo;</a></li>
+            </ul>
+
+    </div>
+</div>
+                    </div>
+                </div>
+                <!--/ row -->
+
+                <!-- row -->
+                <div class="row"> 
+                    <div class="col-sm-4 col-sm-push-8">
+                                            </div>
+                    <div class="col-sm-8 col-sm-pull-4">
+                        
+                        <div class="col-sm-12">
+                                                    </div>
+                    </div>
+                </div>
+                <!--/ row -->
+
+                <div class="row"> 
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="manga-footer">
+                                <!-- menu -->
+                                <ul class=" pull-right ">
+                                                                        <li >
+     <a href="https://readmanhua.net"
+      title="Home">
+           Home
+    </a>
+</li>
+<li >
+     <a href="https://readmanhua.net/privacy-policy"
+      title="Privacy Policy">
+           Privacy Policy
+    </a>
+</li>
+<li >
+     <a href="http://localhost/crawl-php/manga-list"
+      title="Manga List">
+           Manga List
+    </a>
+</li>
+<li >
+     <a href="http://localhost/crawl-php/latest-release"
+      title="Latest release">
+           Latest release
+    </a>
+</li>
+
+                                                                    </ul>
+                                &copy;&nbsp;2018&nbsp;
+                                <a href="https://readmanhua.net">Gin Manga</a>
+                                &nbsp;
+                                <a href="https://readmanhua.net/contact-us" title="Contact us"><i class="fa fa-envelope-square"></i></a>
+                                &nbsp;
+                                <a href="https://readmanhua.net/feed" title="RSS feed" style="color: #FF9900"><i class="fa fa-rss-square"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                
+                <script>
+                    $(document).ready(function () {
+                        var url = window.location.href;
+                        var element = $('ul.nav a').filter(function () {
+                            if (url.charAt(url.length - 1) == '/') {
+                                url = url.substring(0, url.length - 1);
+                            }
+
+                            return this.href == url;
+                        }).parent();
+
+                        if (element.is('li')) {
+                            element.addClass('active');
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        const DOMAIN = "manga.imeivn.com";
+        $(".navbar-brand").attr('href', DOMAIN);
+        $('.navbar-brand img').css({
+            'width': '50px',
+            'border-radius': '15px'
+        });
+        $("a[title='Home']").attr('href', DOMAIN);
+        $('.search').prev().remove();
+        $('nav.navbar').css({
+            'background-color': '#003399',
+            'background-image': 'linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-webkit-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-o-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': 'background-image: -webkit-gradient(linear, left top, left bottom, from(#1f78de), color-stop(60%, #2265a7), to(#0e5ba9))'
+        });
+        $('ul.nav li a').css({
+            'color': '#CCFFCC',
+            'border-radius': '15px'
+        });
+        $('.layout-boxed .wrapper').css({
+            'color': '#FFF',
+            'background-color': '#4ABDAC'
+        });
+        $("[style='clear:both']").remove();
+        $('.col-sm-12')[1].find('div').filter("[style='clear:both']").remove();
+        $('.panel-default').remove();
+        // $('.listmanga-header')[0].prev('row').remove();
+        $('.manganews').prev('hr').remove();
+        $('.listmanga-header')[0].remove();
+        $('.manganews').remove();
+        $('.col-sm-4').remove();
+        $('.col-sm-8').removeClass('col-sm-pull-4');
+        $('.col-sm-8').addClass('col-sm-12');
+        $('.col-sm-8').removeClass('col-sm-8');
+        $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
+        $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
+        
+    });
+</script></body>
+</html>

@@ -1,64 +1,59 @@
-<style type="text/css">
-	#balloon_left_1, .send-message{display: none !important;}
-    #header{background: #00BCD4!important;}
-    .form-search button{background: #ff3378!important;}
-    #main-menu>.container{background: #FF9800!important;}
-    #main-menu .sub-menu{background-color: rgb(249, 173, 63)!important;}
-    #main-menu.desktop ul>li>a:hover{color: #000000!important; background: #ffffffa8!important;}
-    .block-film .caption, #film-trailer .caption{background: #4CAF50!important;}
-    #footer{background: #000000!important;}
-    #footer .views-row .copy-right, #footer .views-row a{color: #fff!important;}
-    .right-content .block .caption{background: #4CAF50!important;}
-    .tags a{background: #00BCD4!important;}
-    .tags a:before{border-color: transparent #00BCD4 transparent transparent;}
-    #main-menu.fix-nav{background: #00BCD4!important;}
-    .meta-data li a {color: #34c5ff!important;}
-    .broadcast{padding: 10px; background: #282828;}
-    .pagination{text-align: center!important;}
-    .form-filter .btn{background: #27a761!important;}
-    .form-filter .btn:hover{background: #279aa7!important;}
-    .pagination ul li a.disabled{opacity: 1!important;}
-    .pagination { background: rgba(0,0,0,.5); padding: 5px; border: 2px dotted #fff601; text-align: center!important; }
-    .form-filter{background: rgba(0,0,0,.5);}
-    .list-film .film-item .current-status{height: 20px!important;background: #8BC34A!important;overflow: hidden!important;}
-	.tags a{background:#00BCD4!important}
-	.tags a:before{border-color: transparent #00BCD4 transparent transparent;}
-	.tags a:hover:before{transparent #00BCD4 transparent transparent;}
-	.list-film .film-item .title .real-name, .list-film .film-item .title .name{color: #00ff0a!important;}
-	.list-film .film-item-ver .name{color: #00ff0a!important;}
-</style>
-<script type='text/javascript'>
-//<![CDATA[
-    jQuery.cookie = function (a, b, c) {
-        if (arguments.length > 1 && "[object Object]" !== String(b)) {
-            if (c = jQuery.extend({}, c), null !== b && void 0 !== b || (c.expires = -1), "number" == typeof c.expires) {
-                var d = c.expires, e = c.expires = new Date;
-                e.setDate(e.getDate() + d)
-            }
-            return b = String(b), document.cookie = [encodeURIComponent(a), "=", c.raw ? b : encodeURIComponent(b), c.expires ? "; expires=" + c.expires.toUTCString() : "", c.path ? "; path=" + c.path : "", c.domain ? "; domain=" + c.domain : "", c.secure ? "; secure" : ""].join("")
-        }
-        c = b || {};
-        var f, g = c.raw ? function (a) {
-            return a
-        } : decodeURIComponent;
-        return(f = new RegExp("(?:^|; )" + encodeURIComponent(a) + "=([^;]*)").exec(document.cookie)) ? g(f[1]) : null
-    };
-//]]>
-</script>
-
 <script type="text/javascript">
-    jQuery(document).ready(function($) {
-        $('.refresh_cache').click(function(event) {
-            $.ajax({
-                type: "POST",
-                url: "http://videohot.co/ajax.php",
-                data: "url="+window.location.href+"&refresh_cache=true",
-                success: function(data){
-                    location.reload();
-                }
-            });
-            return false;
+    $(document).ready(function () {
+        const DOMAIN = "http://manga.imeivn.com";
+        $(".navbar-brand").attr('href', DOMAIN);
+        $('.navbar-brand img').css({
+            'width': '50px',
+            'border-radius': '15px'
         });
+        $("a[title='Home']").attr('href', DOMAIN);
+        $("a[title='All List']").attr('href', DOMAIN);
+        $("a[title='Latest ']").attr('href', DOMAIN);
+
+        $('.search').prev().remove();
+        $('nav.navbar').css({
+            'background-color': '#003399',
+            'background-image': 'linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-webkit-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-o-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': 'background-image: -webkit-gradient(linear, left top, left bottom, from(#1f78de), color-stop(60%, #2265a7), to(#0e5ba9))'
+        });
+        
+        $('ul.nav li a').css({
+            'color': '#CCFFCC',
+            'border-radius': '15px'
+        });
+        $("li a[title='Support Us']").remove();
+        $('.layout-boxed .wrapper').css({
+            'color': '#FFF',
+            'background-color': '#4ABDAC'
+        });
+        
+        
+        
+        var url = window.location.href;
+        if(url.indexOf("manga-list") > -1){
+
+        }else if(url.indexOf("latest-release") > -1) {
+            //Latest
+            $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+        }else {
+            //Index
+            $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
+            $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
+            $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
+            $('.panel-default').remove();
+            $('.listmanga-header').prev('row').remove();
+            $("[style='clear:both']").remove();
+            $('.manganews').prev('hr').remove();
+            $('.manganews').remove();
+            $('.listmanga-header').remove();
+            
+            $('.col-sm-4').eq(0).remove();
+            $('.col-sm-8').removeClass('col-sm-pull-4');
+            $('.col-sm-8').eq(0).addClass('col-sm-12');
+            $('.col-sm-8').eq(0).removeClass('col-sm-8');
+        }
         
     });
 </script>

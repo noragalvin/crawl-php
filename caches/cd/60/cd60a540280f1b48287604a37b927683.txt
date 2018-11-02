@@ -6,34 +6,34 @@
     <head>
         <meta charset="utf-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-        <title>Read Manhua - Read Manga Online for Free | Home
+        <title>Gin Manga - Read Manga Online for Free | Home
 </title>
         <meta name="description" content="Read your favorite manga scans and scanlations online at read manhua. Read Manga Online, Absolutely Free and Updated Daily.
 "/>
         <meta name="keywords" content="tales of demon and gos, holy ancestor, lord xue ying,manga,read manga,read manga online,manga online,online manga,manga reader, manga scans,english manga,naruto manga,bleach manga, one piece manga,manga chapter,read free manga,free manga,read free manga online,manga viewer, readmanga.today. readmng.net, readmng.com, batoto, mangadex, trashscans, trashscanlations, trashscanlations.com, kissmanga, mangakakalot, kiss manga, manga kakalot,
 "/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-		<meta property="og:image" content="http://localhost/crawl-php/logo.jpg" />
+		<meta property="og:image" content="https://readmanhua.net/logo.jpg" />
   	  
                 
         <meta name="google-site-verification" content="" />
         
-                                <link rel="shortcut icon" href="http://localhost/crawl-php/uploads/favicon.jpg">
+                                <link rel="shortcut icon" href="https://readmanhua.net/uploads/favicon.jpg">
                 
-        <link rel="canonical" href="http://localhost/crawl-php"/>
+        <link rel="canonical" href="https://readmanhua.net"/>
 
-        <link rel="stylesheet" href="http://localhost/crawl-php/css/bootswatch/slate/bootstrap.min.css"/>
-        <link rel="stylesheet" href="http://localhost/crawl-php/css/style.css"/>
-        <link rel="stylesheet" href="http://localhost/crawl-php/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="https://readmanhua.net/css/bootswatch/slate/bootstrap.min.css"/>
+        <link rel="stylesheet" href="https://readmanhua.net/css/style.css"/>
+        <link rel="stylesheet" href="https://readmanhua.net/css/font-awesome.min.css"/>
 
-        <script src="http://localhost/crawl-php/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <script src="http://localhost/crawl-php/js/vendor/jquery-1.11.0.min.js"></script>
-        <script src="http://localhost/crawl-php/js/vendor/bootstrap.min.js"></script>
-        <script src="http://localhost/crawl-php/js/vendor/jquery.autocomplete.min.js"></script>
-        <script src="http://localhost/crawl-php/js/main.js"></script>
+        <script src="https://readmanhua.net/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/jquery-1.11.0.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/bootstrap.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/jquery.autocomplete.min.js"></script>
+        <script src="https://readmanhua.net/js/main.js"></script>
 
         
-        <script src="http://localhost/crawl-php/packages/escapeboy/jraty/raty/lib/jquery.raty.min.js" type="text/javascript" charset="utf-8"></script><script type="text/javascript">
+        <script src="https://readmanhua.net/packages/escapeboy/jraty/raty/lib/jquery.raty.min.js" type="text/javascript" charset="utf-8"></script><script type="text/javascript">
       $( document ).ready(function() {
   				$('#item-rating').raty({'score':function() { return $(this).attr('data-score'); },'number':5,'click':function(score, evt) {
                 $.post('save/item_rating',{
@@ -44,24 +44,14 @@
         });
   			</script>
         <!--[if lt IE 9]>
-        <script src="http://localhost/crawl-php/js/vendor/html5shiv.js"></script>
-        <script src="http://localhost/crawl-php/js/vendor/respond.min.js"></script>
+        <script src="https://readmanhua.net/js/vendor/html5shiv.js"></script>
+        <script src="https://readmanhua.net/js/vendor/respond.min.js"></script>
         <![endif]-->
         <script>if (window != top)
     top.location.href = location.href</script>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-122744462-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-	#menu-user{display: none;}
-	img{display: inline-block !important;    visibility: inherit !important;}
+
 </style></head>
     <body class=" layout-boxed ">
         <!--[if lt IE 7]>
@@ -69,7 +59,16 @@
         <![endif]-->
 
                 <!-- Google Analytics -->
-        
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', "UA-114980388-1", 'auto');
+  ga('send', 'pageview');
+
+</script>        
         <div class="wrapper">
             <!-- Website Menu -->
             <nav class="navbar navbar-default" role="navigation">
@@ -79,9 +78,9 @@
                 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button> 
             <h1 class="navbar-brand-logo " style="margin:0;">
-                <a class="navbar-brand" href="http://localhost/crawl-php">
-                                        <img alt="Read Manhua" src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=http://localhost/crawl-php/uploads/logo.png"/>
-                    <span style="display: none">Read Manhua</span>
+                <a class="navbar-brand" href="https://readmanhua.net">
+                                        <img alt="Gin Manga" src="logo.png"/>
+                    <span style="display: none">Gin Manga</span>
                                     </a>
             </h1>
         </div>
@@ -91,12 +90,12 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> <span class="caret"></span></a>
                     <ul class="dropdown-menu profil-menu">
                                                 <li>
-                            <a href="http://localhost/crawl-php/auth/register">
+                            <a href="https://readmanhua.net/auth/register">
                                 <i class="fa fa-pencil-square-o"></i> Subscribe
                             </a>
                         </li>
                         <li>
-                            <a href="http://localhost/crawl-php/auth/login">
+                            <a href="https://readmanhua.net/auth/login">
                                 <i class="fa fa-sign-in"></i> Login
                             </a>
                         </li>
@@ -121,7 +120,7 @@
             <!-- menu -->
             <ul class="nav navbar-nav  navbar-right ">
                                 <li >
-     <a href="http://localhost/crawl-php"
+     <a href="https://readmanhua.net"
       title="Home">
       <i class="fa fa-home"></i>
                 Home
@@ -142,7 +141,7 @@
     </a>
 </li>
 <li >
-     <a href="http://localhost/crawl-php/support-us"
+     <a href="https://readmanhua.net/support-us"
       title="Support Us">
       <i class="fa fa-gift "></i>
                 Support Us
@@ -156,14 +155,14 @@
 
 <style>
     .searching {
-        background-image: url('http://localhost/crawl-php/images/ajax-loader.gif');
+        background-image: url('https://readmanhua.net/images/ajax-loader.gif');
         background-position: 95% 50%;
         background-repeat: no-repeat;
     }
 </style>
 <script>
     $('#autocomplete').autocomplete({
-        serviceUrl: "http://localhost/crawl-php/search",
+        serviceUrl: "https://readmanhua.net/search",
         onSearchStart: function (query) {
             $('#autocomplete').addClass('searching');
         },
@@ -205,10 +204,10 @@
 <!-- About Me -->
 <div class="alert alert-success">
     <div class="about">
-        <h2>Read Manhua</h2>
+        <h2>Gin Manga</h2>
         <h6>Quality and Quantity</h6>
         <p>
-            Read Manhua is scanlating manhua and we are recruiting for new family member as Translator, Proofreader,  Typesetter, Cleaner &amp; Redrawer. if you interested please  Join our discord and get in touch with us. -- if you enjoy our content please support our site by disabling your ADBLOCK --
+            Gin Manga is scanlating manhua and we are recruiting for new family member as Translator, Proofreader,  Typesetter, Cleaner &amp; Redrawer. if you interested please  Join our discord and get in touch with us. -- if you enjoy our content please support our site by disabling your ADBLOCK --
         </p>
     </div>
 </div>
@@ -240,10 +239,10 @@
 
 <center>
 <!-- Add font awesome icons -->
-<a href="https://www.youtube.com/readmanhua"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/yt.png" alt="rss" class="gambar"></a>
-<a href="https://www.facebook.com/ginmovies.mereadmanhua"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/twitter.png" alt="rss" class="gambar"></a>
-<a href="http://facebook.com/readmanhuapage/"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/fb.png" alt="rss" class="gambar"></a>
-<a href="/feed"><img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/rss.png" alt="rss" class="gambar"></a>
+<a href="https://www.youtube.com/readmanhua"><img src="uploads/atr/yt.png" alt="rss" class="gambar"></a>
+<a href="https://twitter.com/readmanhua"><img src="uploads/atr/twitter.png" alt="rss" class="gambar"></a>
+<a href="http://facebook.com/readmanhuapage/"><img src="uploads/atr/fb.png" alt="rss" class="gambar"></a>
+<a href="/feed"><img src="uploads/atr/rss.png" alt="rss" class="gambar"></a>
 </center>
     </div>
 </div>
@@ -319,7 +318,7 @@
 
 <a href="https://www.patreon.com/bePatron?c=1319740" >
 <div class="containerx">
-  <img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/rmpatreon.jpg" alt="Patreon" class="image">
+  <img src="uploads/atr/rmpatreon.jpg" alt="Patreon" class="image">
   <div class="overlay">
     <div class="icon" title="Patreon">
       <i class="fa fa-thumbs-o-up"></i>
@@ -332,7 +331,7 @@
 
 <a href="https://paypal.me/readma" >
 <div class="containerx">
-  <img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/rmdiscord.jpg" alt="Paypal" class="image">
+  <img src="uploads/atr/rmdiscord.jpg" alt="Paypal" class="image">
   <div class="overlay2">
     <div class="icon" title="Paypal">
       <i class="fa fa-check"></i>
@@ -345,7 +344,7 @@
 
 <a href="https://ko-fi.com/readmanhua" >
 <div class="containerx">
-  <img src="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=uploads/atr/kofi.jpg" alt="Ko-Fi" class="image">
+  <img src="uploads/atr/kofi.jpg" alt="Ko-Fi" class="image">
   <div class="overlay">
     <div class="icon" title="Patreon">
       <i class="fa fa-coffee"></i>
@@ -388,7 +387,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/lord-xue-ying">Lord Xue Ying</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/lord-xue-ying/30'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/lord-xue-ying/cover/cover_250x350.jpg' alt='Lord Xue Ying' />
+                                        <img src='https://readmanhua.net/uploads/manga/lord-xue-ying/cover/cover_250x350.jpg' alt='Lord Xue Ying' />
                                     </a>
                 <div class="well">
                     <p>
@@ -403,7 +402,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/the-ghostly-doctor">The Ghostly Doctor</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/the-ghostly-doctor/35'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/the-ghostly-doctor/cover/cover_250x350.jpg' alt='The Ghostly Doctor' />
+                                        <img src='https://readmanhua.net/uploads/manga/the-ghostly-doctor/cover/cover_250x350.jpg' alt='The Ghostly Doctor' />
                                     </a>
                 <div class="well">
                     <p>
@@ -418,7 +417,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/immortal-merchant/19'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/immortal-merchant/cover/cover_250x350.jpg' alt='Immortal Merchant' />
+                                        <img src='https://readmanhua.net/uploads/manga/immortal-merchant/cover/cover_250x350.jpg' alt='Immortal Merchant' />
                                     </a>
                 <div class="well">
                     <p>
@@ -433,7 +432,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/ni-xi-ba-mo-wang">Ni Xi Ba Mo Wang!</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/ni-xi-ba-mo-wang/47.1'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/ni-xi-ba-mo-wang/cover/cover_250x350.jpg' alt='Ni Xi Ba Mo Wang!' />
+                                        <img src='https://readmanhua.net/uploads/manga/ni-xi-ba-mo-wang/cover/cover_250x350.jpg' alt='Ni Xi Ba Mo Wang!' />
                                     </a>
                 <div class="well">
                     <p>
@@ -448,7 +447,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/legend-of-phoenix">Legend of Phoenix</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/legend-of-phoenix/12'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/legend-of-phoenix/cover/cover_250x350.jpg' alt='Legend of Phoenix' />
+                                        <img src='https://readmanhua.net/uploads/manga/legend-of-phoenix/cover/cover_250x350.jpg' alt='Legend of Phoenix' />
                                     </a>
                 <div class="well">
                     <p>
@@ -463,7 +462,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/tiger-x-crane">Tiger X Crane</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/tiger-x-crane/228'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/tiger-x-crane/cover/cover_250x350.jpg' alt='Tiger X Crane' />
+                                        <img src='https://readmanhua.net/uploads/manga/tiger-x-crane/cover/cover_250x350.jpg' alt='Tiger X Crane' />
                                     </a>
                 <div class="well">
                     <p>
@@ -478,7 +477,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/chaotic-sword-god">Chaotic Sword God</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/chaotic-sword-god/44'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/chaotic-sword-god/cover/cover_250x350.jpg' alt='Chaotic Sword God' />
+                                        <img src='https://readmanhua.net/uploads/manga/chaotic-sword-god/cover/cover_250x350.jpg' alt='Chaotic Sword God' />
                                     </a>
                 <div class="well">
                     <p>
@@ -493,7 +492,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/holy-ancestor">Holy Ancestor</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/holy-ancestor/70'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/holy-ancestor/cover/cover_250x350.jpg' alt='Holy Ancestor' />
+                                        <img src='https://readmanhua.net/uploads/manga/holy-ancestor/cover/cover_250x350.jpg' alt='Holy Ancestor' />
                                     </a>
                 <div class="well">
                     <p>
@@ -508,7 +507,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/bai-he-lily">Bai He (Lily)</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/bai-he-lily/7'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/bai-he-lily/cover/cover_250x350.jpg' alt='Bai He (Lily)' />
+                                        <img src='https://readmanhua.net/uploads/manga/bai-he-lily/cover/cover_250x350.jpg' alt='Bai He (Lily)' />
                                     </a>
                 <div class="well">
                     <p>
@@ -523,7 +522,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens">I Shall Seal The Heavens</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/i-shall-seal-the-heavens/56'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/i-shall-seal-the-heavens/cover/cover_250x350.jpg' alt='I Shall Seal The Heavens' />
+                                        <img src='https://readmanhua.net/uploads/manga/i-shall-seal-the-heavens/cover/cover_250x350.jpg' alt='I Shall Seal The Heavens' />
                                     </a>
                 <div class="well">
                     <p>
@@ -538,7 +537,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/munchkin-quest">Munchkin Quest</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/munchkin-quest/9'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/munchkin-quest/cover/cover_250x350.jpg' alt='Munchkin Quest' />
+                                        <img src='https://readmanhua.net/uploads/manga/munchkin-quest/cover/cover_250x350.jpg' alt='Munchkin Quest' />
                                     </a>
                 <div class="well">
                     <p>
@@ -553,7 +552,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/dolos-destiny-pill">Dolos Destiny Pill</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/dolos-destiny-pill/12'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/dolos-destiny-pill/cover/cover_250x350.jpg' alt='Dolos Destiny Pill' />
+                                        <img src='https://readmanhua.net/uploads/manga/dolos-destiny-pill/cover/cover_250x350.jpg' alt='Dolos Destiny Pill' />
                                     </a>
                 <div class="well">
                     <p>
@@ -568,7 +567,7 @@
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/300-beats-per-second">300 Beats Per Second</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/300-beats-per-second/10'>
-                                        <img src='http://localhost/crawl-php/uploads/manga/300-beats-per-second/cover/cover_250x350.jpg' alt='300 Beats Per Second' />
+                                        <img src='https://readmanhua.net/uploads/manga/300-beats-per-second/cover/cover_250x350.jpg' alt='300 Beats Per Second' />
                                     </a>
                 <div class="well">
                     <p>
@@ -615,7 +614,7 @@
                 <div class="news-item" style="display: inline-block; width: 100%;">
             <h3 class="manga-heading  pull-left ">
                 <i class="fa fa-square"></i>
-                <a href="http://localhost/crawl-php/news/new-website-reader">New Website Reader</a>
+                <a href="https://readmanhua.net/news/new-website-reader">New Website Reader</a>
             </h3>
             <div class=" pull-right " style="font-size: 13px;">
                 <span class=" pull-left " style="width: 110px">
@@ -639,7 +638,7 @@
                                 <span class="label label-danger">hot</span>
                             </h3>
             <small class=" pull-right " style="direction: ltr;">  
-                                Yesterday
+                                31/10/2018
                             </small>
                         <div class="manga-chapter">
                 <h6 class="events-subtitle">
@@ -1243,7 +1242,7 @@
                                 <!-- menu -->
                                 <ul class=" pull-right ">
                                                                         <li >
-     <a href="http://localhost/crawl-php"
+     <a href="https://readmanhua.net"
       title="Home">
            Home
     </a>
@@ -1269,11 +1268,11 @@
 
                                                                     </ul>
                                 &copy;&nbsp;2018&nbsp;
-                                <a href="http://localhost/crawl-php">Read Manhua</a>
+                                <a href="https://readmanhua.net">Gin Manga</a>
                                 &nbsp;
-                                <a href="http://localhost/crawl-php/contact-us" title="Contact us"><i class="fa fa-envelope-square"></i></a>
+                                <a href="https://readmanhua.net/contact-us" title="Contact us"><i class="fa fa-envelope-square"></i></a>
                                 &nbsp;
-                                <a href="http://localhost/crawl-php/feed" title="RSS feed" style="color: #FF9900"><i class="fa fa-rss-square"></i></a>
+                                <a href="https://readmanhua.net/feed" title="RSS feed" style="color: #FF9900"><i class="fa fa-rss-square"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1300,67 +1299,58 @@
             </div>
         </div>
     </div>
-<style type="text/css">
-	#balloon_left_1, .send-message{display: none !important;}
-    #header{background: #00BCD4!important;}
-    .form-search button{background: #ff3378!important;}
-    #main-menu>.container{background: #FF9800!important;}
-    #main-menu .sub-menu{background-color: rgb(249, 173, 63)!important;}
-    #main-menu.desktop ul>li>a:hover{color: #000000!important; background: #ffffffa8!important;}
-    .block-film .caption, #film-trailer .caption{background: #4CAF50!important;}
-    #footer{background: #000000!important;}
-    #footer .views-row .copy-right, #footer .views-row a{color: #fff!important;}
-    .right-content .block .caption{background: #4CAF50!important;}
-    .tags a{background: #00BCD4!important;}
-    .tags a:before{border-color: transparent #00BCD4 transparent transparent;}
-    #main-menu.fix-nav{background: #00BCD4!important;}
-    .meta-data li a {color: #34c5ff!important;}
-    .broadcast{padding: 10px; background: #282828;}
-    .pagination{text-align: center!important;}
-    .form-filter .btn{background: #27a761!important;}
-    .form-filter .btn:hover{background: #279aa7!important;}
-    .pagination ul li a.disabled{opacity: 1!important;}
-    .pagination { background: rgba(0,0,0,.5); padding: 5px; border: 2px dotted #fff601; text-align: center!important; }
-    .form-filter{background: rgba(0,0,0,.5);}
-    .list-film .film-item .current-status{height: 20px!important;background: #8BC34A!important;overflow: hidden!important;}
-	.tags a{background:#00BCD4!important}
-	.tags a:before{border-color: transparent #00BCD4 transparent transparent;}
-	.tags a:hover:before{transparent #00BCD4 transparent transparent;}
-	.list-film .film-item .title .real-name, .list-film .film-item .title .name{color: #00ff0a!important;}
-	.list-film .film-item-ver .name{color: #00ff0a!important;}
-</style>
-<script type='text/javascript'>
-//<![CDATA[
-    jQuery.cookie = function (a, b, c) {
-        if (arguments.length > 1 && "[object Object]" !== String(b)) {
-            if (c = jQuery.extend({}, c), null !== b && void 0 !== b || (c.expires = -1), "number" == typeof c.expires) {
-                var d = c.expires, e = c.expires = new Date;
-                e.setDate(e.getDate() + d)
-            }
-            return b = String(b), document.cookie = [encodeURIComponent(a), "=", c.raw ? b : encodeURIComponent(b), c.expires ? "; expires=" + c.expires.toUTCString() : "", c.path ? "; path=" + c.path : "", c.domain ? "; domain=" + c.domain : "", c.secure ? "; secure" : ""].join("")
-        }
-        c = b || {};
-        var f, g = c.raw ? function (a) {
-            return a
-        } : decodeURIComponent;
-        return(f = new RegExp("(?:^|; )" + encodeURIComponent(a) + "=([^;]*)").exec(document.cookie)) ? g(f[1]) : null
-    };
-//]]>
-</script>
-
 <script type="text/javascript">
-    jQuery(document).ready(function($) {
-        $('.refresh_cache').click(function(event) {
-            $.ajax({
-                type: "POST",
-                url: "http://videohot.co/ajax.php",
-                data: "url="+window.location.href+"&refresh_cache=true",
-                success: function(data){
-                    location.reload();
-                }
-            });
-            return false;
+    $(document).ready(function () {
+        const DOMAIN = "http://manga.imeivn.com";
+        $(".navbar-brand").attr('href', DOMAIN);
+        $('.navbar-brand img').css({
+            'width': '50px',
+            'border-radius': '15px'
         });
+        $("a[title='Home']").attr('href', DOMAIN);
+        $('.search').prev().remove();
+        $('nav.navbar').css({
+            'background-color': '#003399',
+            'background-image': 'linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-webkit-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-o-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': 'background-image: -webkit-gradient(linear, left top, left bottom, from(#1f78de), color-stop(60%, #2265a7), to(#0e5ba9))'
+        });
+        
+        $('ul.nav li a').css({
+            'color': '#CCFFCC',
+            'border-radius': '15px'
+        });
+        $("li a[title='Support Us']").remove();
+        $('.layout-boxed .wrapper').css({
+            'color': '#FFF',
+            'background-color': '#4ABDAC'
+        });
+        
+        
+        
+        var url = window.location.href;
+        if(url.indexOf("manga-list") > -1){
+
+        }else if(url.indexOf("latest-release") > -1) {
+            //Latest
+            $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+        }else {
+            //Index
+            $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
+            $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
+            $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
+            $('.panel-default').remove();
+            $('.listmanga-header').prev('row').remove();
+            $('.manganews').prev('hr').remove();
+            $('.listmanga-header').remove();
+            $('.manganews').remove();
+            $('.col-sm-4').remove();
+            $('.col-sm-8').removeClass('col-sm-pull-4');
+            $('.col-sm-8').addClass('col-sm-12');
+            $('.col-sm-8').removeClass('col-sm-8');
+            $("[style='clear:both']").remove();
+        }
         
     });
 </script></body>

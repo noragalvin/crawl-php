@@ -5,7 +5,8 @@ $webdomain = 'readmanhua.net';
 $weburl = 'https://' . $webdomain;
 $url = $weburl . $act;
 
-
+// print_r($curl->get("https://readmanhua.net/filterList?page=1&cat=&alpha=B&sortBy=name&asc=true&author=&artist=&tag="));
+// die();
 // if(preg_match('#xembed\.php|css|gif|js|png|jpg|swf|\.ico#',$url))
 // {
 // 	$response->redirect($url);
@@ -23,6 +24,29 @@ function progess($html)
 { 
 	global $url,$webdomain,$weburl,$db,$md5,$curl;
 	if($html){
+		$current_url = $_SERVER['REQUEST_URI'];
+		if(strpos($current_url, "manga-list") > -1){
+			//Manga list
+			// $html = str_replace("filterList\",", "filterList\", crossDomain: true, dataType: 'jsonp',", $html);
+			$html = str_replace("https://readmanhua.net/filterList", "ajax/filterList.php", $html);
+			$html = str_replace("https://readmanhua.net/changeMangaList", "ajax/changeMangaList.php", $html);
+		} else if(strpos($current_url, "latest-release") > -1) {
+			//Latest
+
+		} else {
+			//Index
+			
+			
+			
+		}
+
+		//All pages
+		$html = str_replace("https://readmanhua.net/uploads/logo.png", "logo.png", $html);
+		$html = str_replace("Read Manhua", "Gin Manga", $html);
+		$html = str_replace($weburl . '/manga', HTTP_SERVER . '/manga', $html);
+		$html = str_replace($weburl . '/latest-release', HTTP_SERVER . '/latest-release', $html);
+		$html = str_replace($weburl . '/privacy-policy', HTTP_SERVER . '/privacy-policy', $html);
+		
 		// $html = str_replace($weburl,HTTP_SERVER, $html);	
 		// $isMobile = (bool)preg_match('#\b(ip(hone|od|ad)|android|opera m(ob|in)i|windows (phone|ce)|blackberry|tablet'.
         //     '|s(ymbian|eries60|amsung)|p(laybook|alm|rofile/midp|laystation portable)|nokia|fennec|htc[\-_]'.
@@ -54,7 +78,9 @@ function progess($html)
 		// 	$html = str_replace('Bilutv Group',"GinMovies Group",$html);
 		// 	return $html;
 		// }
-		$html = str_replace($weburl . '/manga', HTTP_SERVER . '/manga', $html);
+		
+
+
 		// preg_match_all('%<img[^>]*src="(.*?)"[^>]*%i',$html, $images); 
 		// foreach($images[1] as $item){
 		// 	// $image_src = urlencode('http://ginmovies.me/image.php?image_src='.$item);
@@ -167,10 +193,10 @@ function progess($html)
 		// }
 
 		// $html = preg_replace_callback('#<script type="text/javascript" src="(.*?)bplayer.js(.*?)"></script>#', function(){return '<script type="text/javascript" src="'.HTTP_SERVER.'/js/bplayer.js"></script>';}, $html);
-		// $header = file_get_contents('header.php');
-		// $html = str_replace('</head>',$header.'</head>',$html);
-		// $footer = file_get_contents('footer.php');
-		// $html = str_replace('</body>',$footer.'</body>',$html);
+		$header = file_get_contents('header.php');
+		$html = str_replace('</head>',$header.'</head>',$html);
+		$footer = file_get_contents('footer.php');
+		$html = str_replace('</body>',$footer.'</body>',$html);
 	}
 	
 	return $html;

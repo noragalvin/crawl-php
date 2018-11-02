@@ -81,7 +81,10 @@
 
         <![endif]-->
 
-    </head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+</style></head>
 
     <body>
 
@@ -141,9 +144,9 @@
                         <a class="navbar-brand" href="https://readmanhua.net">
 
                             
-                            <img alt="Read Manhua" src="https://readmanhua.net/uploads/logo.png"/>
+                            <img alt="Gin Manga" src="logo.png"/>
 
-                            <span style="display: none">Read Manhua</span>
+                            <span style="display: none">Gin Manga</span>
 
                             
                         </a>
@@ -1143,7 +1146,7 @@
 
                                 'page_slug': '3',
 
-                                '_token': 'UwO0ajvCxl36Xb2uV9ZC67RBk1rMP50U0MmXWE2D'
+                                '_token': 'spmGLsLdxkZjhofhNtLUu4kDimdeKT8Lz8v8YCao'
 
                             },
 
@@ -1183,7 +1186,7 @@
 
                 <div class="modal-content">
 
-                    <form method="POST" action="https://readmanhua.net/report-bug" accept-charset="UTF-8" role="form"><input name="_token" type="hidden" value="UwO0ajvCxl36Xb2uV9ZC67RBk1rMP50U0MmXWE2D">
+                    <form method="POST" action="https://readmanhua.net/report-bug" accept-charset="UTF-8" role="form"><input name="_token" type="hidden" value="spmGLsLdxkZjhofhNtLUu4kDimdeKT8Lz8v8YCao">
 
                     <div class="modal-header">
 
@@ -1247,7 +1250,61 @@
         </div>
 
         
-    </body>
+    <script type="text/javascript">
+    $(document).ready(function () {
+        const DOMAIN = "http://manga.imeivn.com";
+        $(".navbar-brand").attr('href', DOMAIN);
+        $('.navbar-brand img').css({
+            'width': '50px',
+            'border-radius': '15px'
+        });
+        $("a[title='Home']").attr('href', DOMAIN);
+        $('.search').prev().remove();
+        $('nav.navbar').css({
+            'background-color': '#003399',
+            'background-image': 'linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-webkit-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': '-o-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
+            // 'background-image': 'background-image: -webkit-gradient(linear, left top, left bottom, from(#1f78de), color-stop(60%, #2265a7), to(#0e5ba9))'
+        });
+        
+        $('ul.nav li a').css({
+            'color': '#CCFFCC',
+            'border-radius': '15px'
+        });
+        $("li a[title='Support Us']").remove();
+        $('.layout-boxed .wrapper').css({
+            'color': '#FFF',
+            'background-color': '#4ABDAC'
+        });
+        
+        
+        
+        var url = window.location.href;
+        if(url.indexOf("manga-list") > -1){
+
+        }else if(url.indexOf("latest-release") > -1) {
+            //Latest
+            $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+        }else {
+            //Index
+            $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
+            $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
+            $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
+            $('.panel-default').remove();
+            $('.listmanga-header').prev('row').remove();
+            $('.manganews').prev('hr').remove();
+            $('.listmanga-header').remove();
+            $('.manganews').remove();
+            $('.col-sm-4').remove();
+            $('.col-sm-8').removeClass('col-sm-pull-4');
+            $('.col-sm-8').addClass('col-sm-12');
+            $('.col-sm-8').removeClass('col-sm-8');
+            $("[style='clear:both']").remove();
+        }
+        
+    });
+</script></body>
 
 </html>
 

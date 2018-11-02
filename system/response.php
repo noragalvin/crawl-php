@@ -1,6 +1,6 @@
 <?php
 define("FolderCache", "caches");
-if(strpos($url,'/xem-phim/') !== false){
+if(strpos($url,'/manga/') !== false){
 	define("TimeCache", 3600);
 }else{
 	define("TimeCache", 10000);
