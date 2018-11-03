@@ -82,7 +82,7 @@ score: score
             </button> 
             <h1 class="navbar-brand-logo " style="margin:0;">
                 <a class="navbar-brand" href="https://readmanhua.net">
-                                        <img alt="Gin Manga" src="logo.png"/>
+                                        <img alt="Gin Manga" src="https://imgur.com/LqoUncp"/>
                     <span style="display: none">Gin Manga</span>
                                     </a>
             </h1>
@@ -165,7 +165,7 @@ score: score
 </style>
 <script>
     $('#autocomplete').autocomplete({
-        serviceUrl: "https://readmanhua.net/search",
+        serviceUrl: "ajax/search.php",
         onSearchStart: function (query) {
             $('#autocomplete').addClass('searching');
         },
@@ -237,7 +237,7 @@ score: score
             <br/>
 
             <dt>Views</dt>
-            <dd>9608</dd>
+            <dd>9794</dd>
 
             <dt>Rating</dt>
             <dd>
@@ -290,6 +290,18 @@ score: score
 
         <ul class="chapters">
                                                 
+            <li style="padding: 3px 0;" class="volume-0">
+                <h5 class="chapter-title-rtl">
+                    <a href="http://localhost/crawl-php/manga/immortal-merchant/20">Immortal Merchant 20</a> : 
+                    <em>Chapter 20</em>
+                </h5>
+                <div class="action ">
+                                        <div style="float:right" class="date-chapter-title-rtl">
+                        02 Nov. 2018
+                    </div>
+                                    </div>
+            </li>
+                        
             <li style="padding: 3px 0;" class="volume-0">
                 <h5 class="chapter-title-rtl">
                     <a href="http://localhost/crawl-php/manga/immortal-merchant/19">Immortal Merchant 19</a> : 
@@ -620,7 +632,7 @@ score: score
     </a>
 </li>
 <li >
-     <a href="https://readmanhua.net/privacy-policy"
+     <a href="http://localhost/crawl-php/privacy-policy"
       title="Privacy Policy">
            Privacy Policy
     </a>
@@ -673,13 +685,21 @@ score: score
     </div>
 <script type="text/javascript">
     $(document).ready(function () {
-        const DOMAIN = "manga.imeivn.com";
+        const DOMAIN = "http://manga.imeivn.com";
         $(".navbar-brand").attr('href', DOMAIN);
         $('.navbar-brand img').css({
             'width': '50px',
             'border-radius': '15px'
         });
         $("a[title='Home']").attr('href', DOMAIN);
+        $("a[title='All List']").attr('href', DOMAIN + "/manga-list");
+        $("a[title='Latest ']").attr('href', DOMAIN + "/latest-release");
+        $("a[title='Contact us']").remove();
+        $("a[title='RSS feed']").remove();
+        // console.log($("link[rel='canonical']"));
+        $("link[rel='canonical']").attr("href", DOMAIN);
+
+
         $('.search').prev().remove();
         $('nav.navbar').css({
             'background-color': '#003399',
@@ -688,29 +708,42 @@ score: score
             // 'background-image': '-o-linear-gradient(#1f78de, #2265a7 60%, #0e5ba9)',
             // 'background-image': 'background-image: -webkit-gradient(linear, left top, left bottom, from(#1f78de), color-stop(60%, #2265a7), to(#0e5ba9))'
         });
-        $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+        
         $('ul.nav li a').css({
             'color': '#CCFFCC',
             'border-radius': '15px'
         });
+        $("li a[title='Support Us']").remove();
         $('.layout-boxed .wrapper').css({
             'color': '#FFF',
             'background-color': '#4ABDAC'
         });
-        $("[style='clear:both']").remove();
-        $('.col-sm-12')[1].find('div').filter("[style='clear:both']").remove();
-        $('.panel-default').remove();
-        // $('.listmanga-header')[0].prev('row').remove();
-        $('.manganews').prev('hr').remove();
-        $('.listmanga-header')[0].remove();
-        $('.manganews').remove();
-        $('.col-sm-4').remove();
-        $('.col-sm-8').removeClass('col-sm-pull-4');
-        $('.col-sm-8').addClass('col-sm-12');
-        $('.col-sm-8').removeClass('col-sm-8');
-        $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
-        $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
         
+        
+        
+        var url = window.location.href;
+        if(url.indexOf("manga-list") > -1){
+
+        }else if(url.indexOf("latest-release") > -1) {
+            //Latest
+            $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+        }else {
+            //Index
+            $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
+            $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
+            $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
+            $('.panel-default').remove();
+            $('.listmanga-header').prev('row').remove();
+            $("[style='clear:both']").remove();
+            $('.manganews').prev('hr').remove();
+            $('.manganews').remove();
+            $('.listmanga-header').remove();
+            
+            $('.col-sm-4').eq(0).remove();
+            $('.col-sm-8').removeClass('col-sm-pull-4');
+            $('.col-sm-8').eq(0).addClass('col-sm-12');
+            $('.col-sm-8').eq(0).removeClass('col-sm-8');
+        }
         
     });
 </script></body>

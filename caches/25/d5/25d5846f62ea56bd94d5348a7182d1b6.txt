@@ -483,52 +483,6 @@
             <div class="col-sm-6">
     <div class="media" style="margin-bottom: 20px;">
         <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/300-beats-per-second" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/300-beats-per-second/cover/cover_250x350.jpg' alt='300 Beats Per Second'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/300-beats-per-second" class="chart-title"><strong>300 Beats Per Second</strong></a></h5>
-            <div class="readOnly-13" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.5</span>
-            <script>$('.readOnly-13').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.5"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 13629
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Horror
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/300-beats-per-second/10">#10 Chapter 10</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/bai-he-lily" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/bai-he-lily/cover/cover_250x350.jpg' alt='Bai He (Lily)'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/bai-he-lily" class="chart-title"><strong>Bai He (Lily)</strong></a></h5>
-            <div class="readOnly-17" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.31</span>
-            <script>$('.readOnly-17').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.31"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 15618
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Adventure, Drama, Fantasy, Romance
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/bai-he-lily/7">#7 Chapter 07</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
             <a href="http://localhost/crawl-php/manga/chaotic-sword-god" class="thumbnail">
                 <img width="100" src='https://readmanhua.net/uploads/manga/chaotic-sword-god/cover/cover_250x350.jpg' alt='Chaotic Sword God'>
             </a>
@@ -538,36 +492,13 @@
             <div class="readOnly-1" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.52</span>
             <script>$('.readOnly-1').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.52"});</script>
             <div>
-                <i class="fa fa-eye"></i> 31084
+                <i class="fa fa-eye"></i> 31083
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
             </div>
                                                 <div style="position: absolute; bottom: 20px">
                 <a href="http://localhost/crawl-php/manga/chaotic-sword-god/44">#44 Chapter 44</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/dolos-destiny-pill" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/dolos-destiny-pill/cover/cover_250x350.jpg' alt='Dolos Destiny Pill'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/dolos-destiny-pill" class="chart-title"><strong>Dolos Destiny Pill</strong></a></h5>
-            <div class="readOnly-4" style="display: inline-block;"></div> <span style="vertical-align: middle;">3.67</span>
-            <script>$('.readOnly-4').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "3.67"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 16701
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Drama, Romance, School Life, Shoujo
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/dolos-destiny-pill/12">#12 Chapter 12</a>
             </div>
                     </div>
     </div>
@@ -584,36 +515,13 @@
             <div class="readOnly-2" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.92</span>
             <script>$('.readOnly-2').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.92"});</script>
             <div>
-                <i class="fa fa-eye"></i> 30539
+                <i class="fa fa-eye"></i> 30537
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Harem, Martial Arts
             </div>
                                                 <div style="position: absolute; bottom: 20px">
                 <a href="http://localhost/crawl-php/manga/holy-ancestor/70">#70 Chapter 70</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/i-shall-seal-the-heavens/cover/cover_250x350.jpg' alt='I Shall Seal The Heavens'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens" class="chart-title"><strong>I Shall Seal The Heavens</strong></a></h5>
-            <div class="readOnly-22" style="display: inline-block;"></div> <span style="vertical-align: middle;">4</span>
-            <script>$('.readOnly-22').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 3091
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Action, Adventure, Fantasy, Martial Arts, manhua
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/i-shall-seal-the-heavens/56">#56 Chapter 56</a>
             </div>
                     </div>
     </div>
@@ -630,36 +538,13 @@
             <div class="readOnly-20" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.65</span>
             <script>$('.readOnly-20').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.65"});</script>
             <div>
-                <i class="fa fa-eye"></i> 9785
+                <i class="fa fa-eye"></i> 9780
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Adventure, Comedy, Fantasy, Harem, manhua
             </div>
                                                 <div style="position: absolute; bottom: 20px">
                 <a href="http://localhost/crawl-php/manga/immortal-merchant/20">#20 Chapter 20</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/itaewon-class" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/itaewon-class/cover/cover_250x350.jpg' alt='Itaewon Class'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/itaewon-class" class="chart-title"><strong>Itaewon Class</strong></a></h5>
-            <div class="readOnly-21" style="display: inline-block;"></div> <span style="vertical-align: middle;">2</span>
-            <script>$('.readOnly-21').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "2"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 957
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Drama, School Life, manhwa, Seinen
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/itaewon-class/6">#6 Chapter 06</a>
             </div>
                     </div>
     </div>
@@ -676,7 +561,7 @@
             <div class="readOnly-15" style="display: inline-block;"></div> <span style="vertical-align: middle;">5</span>
             <script>$('.readOnly-15').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "5"});</script>
             <div>
-                <i class="fa fa-eye"></i> 18697
+                <i class="fa fa-eye"></i> 18696
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
@@ -699,36 +584,13 @@
             <div class="readOnly-5" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.92</span>
             <script>$('.readOnly-5').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.92"});</script>
             <div>
-                <i class="fa fa-eye"></i> 23586
+                <i class="fa fa-eye"></i> 23582
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
             </div>
                                                 <div style="position: absolute; bottom: 20px">
                 <a href="http://localhost/crawl-php/manga/lord-xue-ying/30">#30 Chapter 30</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/munchkin-quest" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/munchkin-quest/cover/cover_250x350.jpg' alt='Munchkin Quest'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/munchkin-quest" class="chart-title"><strong>Munchkin Quest</strong></a></h5>
-            <div class="readOnly-18" style="display: inline-block;"></div> <span style="vertical-align: middle;">5</span>
-            <script>$('.readOnly-18').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "5"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 5409
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Fantasy, manhwa, sci-fi
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/munchkin-quest/9">#9 Chapter 09</a>
             </div>
                     </div>
     </div>
@@ -745,59 +607,13 @@
             <div class="readOnly-6" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.86</span>
             <script>$('.readOnly-6').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.86"});</script>
             <div>
-                <i class="fa fa-eye"></i> 8059
+                <i class="fa fa-eye"></i> 8058
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
             </div>
                                                 <div style="position: absolute; bottom: 20px">
                 <a href="http://localhost/crawl-php/manga/ni-xi-ba-mo-wang/47.1">#47.1 Chapter 47 part 1</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/revival-man" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/revival-man/cover/cover_250x350.jpg' alt='Revival Man'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/revival-man" class="chart-title"><strong>Revival Man</strong></a></h5>
-            <div class="readOnly-19" style="display: inline-block;"></div> <span style="vertical-align: middle;">3.67</span>
-            <script>$('.readOnly-19').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "3.67"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 2088
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Action, Drama, Martial Arts, Seinen, Supernatural
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/revival-man/50">#50 Chapter 50</a>
-            </div>
-                    </div>
-    </div>
-</div>
-<div class="col-sm-6">
-    <div class="media" style="margin-bottom: 20px;">
-        <div class="media-left">
-            <a href="http://localhost/crawl-php/manga/the-ghostly-doctor" class="thumbnail">
-                <img width="100" src='https://readmanhua.net/uploads/manga/the-ghostly-doctor/cover/cover_250x350.jpg' alt='The Ghostly Doctor'>
-            </a>
-        </div>
-        <div class="media-body">
-                        <h5 class="media-heading"><a href="http://localhost/crawl-php/manga/the-ghostly-doctor" class="chart-title"><strong>The Ghostly Doctor</strong></a></h5>
-            <div class="readOnly-10" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.72</span>
-            <script>$('.readOnly-10').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.72"});</script>
-            <div>
-                <i class="fa fa-eye"></i> 35326
-            </div>
-                        <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
-                Action, Adventure, Drama, Martial Arts
-            </div>
-                                                <div style="position: absolute; bottom: 20px">
-                <a href="http://localhost/crawl-php/manga/the-ghostly-doctor/35">#35 Chapter 35</a>
             </div>
                     </div>
     </div>
@@ -814,7 +630,7 @@
             <div class="readOnly-3" style="display: inline-block;"></div> <span style="vertical-align: middle;">5</span>
             <script>$('.readOnly-3').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "5"});</script>
             <div>
-                <i class="fa fa-eye"></i> 14342
+                <i class="fa fa-eye"></i> 14340
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts

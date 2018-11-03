@@ -492,7 +492,7 @@
             <div class="readOnly-13" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.5</span>
             <script>$('.readOnly-13').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.5"});</script>
             <div>
-                <i class="fa fa-eye"></i> 13629
+                <i class="fa fa-eye"></i> 13631
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Horror
@@ -515,7 +515,7 @@
             <div class="readOnly-17" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.31</span>
             <script>$('.readOnly-17').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.31"});</script>
             <div>
-                <i class="fa fa-eye"></i> 15618
+                <i class="fa fa-eye"></i> 15622
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Adventure, Drama, Fantasy, Romance
@@ -538,7 +538,7 @@
             <div class="readOnly-1" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.52</span>
             <script>$('.readOnly-1').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.52"});</script>
             <div>
-                <i class="fa fa-eye"></i> 31084
+                <i class="fa fa-eye"></i> 31087
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
@@ -561,7 +561,7 @@
             <div class="readOnly-4" style="display: inline-block;"></div> <span style="vertical-align: middle;">3.67</span>
             <script>$('.readOnly-4').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "3.67"});</script>
             <div>
-                <i class="fa fa-eye"></i> 16701
+                <i class="fa fa-eye"></i> 16703
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Drama, Romance, School Life, Shoujo
@@ -584,7 +584,7 @@
             <div class="readOnly-2" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.92</span>
             <script>$('.readOnly-2').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.92"});</script>
             <div>
-                <i class="fa fa-eye"></i> 30539
+                <i class="fa fa-eye"></i> 30541
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Harem, Martial Arts
@@ -607,7 +607,7 @@
             <div class="readOnly-22" style="display: inline-block;"></div> <span style="vertical-align: middle;">4</span>
             <script>$('.readOnly-22').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4"});</script>
             <div>
-                <i class="fa fa-eye"></i> 3091
+                <i class="fa fa-eye"></i> 3093
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Fantasy, Martial Arts, manhua
@@ -630,7 +630,7 @@
             <div class="readOnly-20" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.65</span>
             <script>$('.readOnly-20').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.65"});</script>
             <div>
-                <i class="fa fa-eye"></i> 9785
+                <i class="fa fa-eye"></i> 9790
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Adventure, Comedy, Fantasy, Harem, manhua
@@ -676,7 +676,7 @@
             <div class="readOnly-15" style="display: inline-block;"></div> <span style="vertical-align: middle;">5</span>
             <script>$('.readOnly-15').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "5"});</script>
             <div>
-                <i class="fa fa-eye"></i> 18697
+                <i class="fa fa-eye"></i> 18699
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
@@ -699,7 +699,7 @@
             <div class="readOnly-5" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.92</span>
             <script>$('.readOnly-5').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.92"});</script>
             <div>
-                <i class="fa fa-eye"></i> 23586
+                <i class="fa fa-eye"></i> 23589
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
@@ -791,7 +791,7 @@
             <div class="readOnly-10" style="display: inline-block;"></div> <span style="vertical-align: middle;">4.72</span>
             <script>$('.readOnly-10').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "4.72"});</script>
             <div>
-                <i class="fa fa-eye"></i> 35326
+                <i class="fa fa-eye"></i> 35330
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Drama, Martial Arts
@@ -814,7 +814,7 @@
             <div class="readOnly-3" style="display: inline-block;"></div> <span style="vertical-align: middle;">5</span>
             <script>$('.readOnly-3').raty({path: "https://readmanhua.net/packages/escapeboy/jraty/raty/lib/img", readOnly: true, score: "5"});</script>
             <div>
-                <i class="fa fa-eye"></i> 14342
+                <i class="fa fa-eye"></i> 14346
             </div>
                         <div style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 95%;">
                 Action, Adventure, Comedy, Fantasy, Martial Arts
@@ -910,9 +910,9 @@
             'width': '50px',
             'border-radius': '15px'
         });
-        $("a[title='Home']").attr('href', DOMAIN);
-        $("a[title='All List']").attr('href', DOMAIN);
-        $("a[title='Latest ']").attr('href', DOMAIN);
+        // $("a[title='Home']").attr('href', DOMAIN);
+        // $("a[title='All List']").attr('href', DOMAIN);
+        // $("a[title='Latest ']").attr('href', DOMAIN);
 
         $('.search').prev().remove();
         $('nav.navbar').css({

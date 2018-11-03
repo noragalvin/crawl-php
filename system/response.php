@@ -35,7 +35,21 @@ if($detect->isMobile()){
 	$cache->saveCache($url,$html);
 }
 
-$html = progess(file_get_contents($url));
+if(strpos($url, "ajax") > -1) {
+	$url = str_replace("ajax/","",$url);
+} 
 
-echo $html;
+if(strpos($url, ".php") > -1) {
+	$url = str_replace(".php","",$url);
+} 
+// print_r($url);
+// print_r(file_get_contents($url));
+// die();
+try{
+	$html = progess(file_get_contents($url));
+	echo $html;
+}catch(Exception $e){
+	echo "Press F5 to refresh page";
+}
+
 exit;

@@ -38,3 +38,5 @@ if($config['folder']['project'] != '/'){
 }else{
 	$act =  $requset->server['REQUEST_URI'];
 }
+// print_r($config['folder']['project']);
+// die();

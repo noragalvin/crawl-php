@@ -30,6 +30,8 @@ function progess($html)
 			// $html = str_replace("filterList\",", "filterList\", crossDomain: true, dataType: 'jsonp',", $html);
 			$html = str_replace("https://readmanhua.net/filterList", "ajax/filterList.php", $html);
 			$html = str_replace("https://readmanhua.net/changeMangaList", "ajax/changeMangaList.php", $html);
+			
+
 		} else if(strpos($current_url, "latest-release") > -1) {
 			//Latest
 
@@ -41,7 +43,12 @@ function progess($html)
 		}
 
 		//All pages
-		$html = str_replace("https://readmanhua.net/uploads/logo.png", "logo.png", $html);
+		$html = str_replace("https://readmanhua.net/search", "ajax/search.php", $html);
+		$html = str_replace("https://readmanhua.net/uploads/logo.png", "http://manga.imeivn.com/logo.png", $html);
+		$html = str_replace(`<a href="https://readmanhua.net">Gin Manga</a>`, `<a href="`.HTTP_SERVER.`">Gin Manga</a>`, $html);
+
+		
+		
 		$html = str_replace("Read Manhua", "Gin Manga", $html);
 		$html = str_replace($weburl . '/manga', HTTP_SERVER . '/manga', $html);
 		$html = str_replace($weburl . '/latest-release', HTTP_SERVER . '/latest-release', $html);

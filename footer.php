@@ -7,8 +7,14 @@
             'border-radius': '15px'
         });
         $("a[title='Home']").attr('href', DOMAIN);
-        $("a[title='All List']").attr('href', DOMAIN);
-        $("a[title='Latest ']").attr('href', DOMAIN);
+        $("a[title='All List']").attr('href', DOMAIN + "/manga-list");
+        $("a[title='Latest ']").attr('href', DOMAIN + "/latest-release");
+        $("a[title='Contact us']").remove();
+        $("a[title='RSS feed']").remove();
+        // console.log($("link[rel='canonical']"));
+        $("link[rel='canonical']").attr("href", DOMAIN);
+        $("a[href='https://readmanhua.net']").attr("href", DOMAIN);
+
 
         $('.search').prev().remove();
         $('nav.navbar').css({
@@ -29,6 +35,26 @@
             'background-color': '#4ABDAC'
         });
         
+        // console.log($('.tag-links'));
+        if($('.tag-links')) {
+            $(".tag-links").eq(0).prev("dt").eq(0).remove();
+            $(".tag-links").eq(0).remove();
+        }
+        // console.log($("#disqus_thread"));
+        $("#disqus_thread").remove();
+        if($('.hrule')) {
+            $('.hrule').next(".row").remove();
+            $('.hrule').remove();
+        }
+
+        if($("a[aria-controls='disqus']").text() == "Disqus"){
+            $("a[aria-controls='disqus']").parents(".row").eq(0).remove();
+        }
+
+        if($(".navbar-custom-menu")) {
+            $(".navbar-custom-menu").remove();
+        }
+
         
         
         var url = window.location.href;
@@ -54,6 +80,6 @@
             $('.col-sm-8').eq(0).addClass('col-sm-12');
             $('.col-sm-8').eq(0).removeClass('col-sm-8');
         }
-        
     });
+    
 </script>

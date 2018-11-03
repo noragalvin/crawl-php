@@ -384,6 +384,21 @@
                 <li class="span3">
             <div class="photo" style="position: relative;">
                 <div class="manga-name">
+                    <a class="label label-warning" href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
+                </div>
+                <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/immortal-merchant/20'>
+                                        <img src='https://readmanhua.net/uploads/manga/immortal-merchant/cover/cover_250x350.jpg' alt='Immortal Merchant' />
+                                    </a>
+                <div class="well">
+                    <p>
+                        <i class="fa fa-book"></i>
+                        #20  Chapter 20
+                    </p>
+                </div>
+            </div></li>
+                <li class="span3">
+            <div class="photo" style="position: relative;">
+                <div class="manga-name">
                     <a class="label label-warning" href="http://localhost/crawl-php/manga/lord-xue-ying">Lord Xue Ying</a>
                 </div>
                 <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/lord-xue-ying/30'>
@@ -408,21 +423,6 @@
                     <p>
                         <i class="fa fa-book"></i>
                         #35  Chapter 35
-                    </p>
-                </div>
-            </div></li>
-                <li class="span3">
-            <div class="photo" style="position: relative;">
-                <div class="manga-name">
-                    <a class="label label-warning" href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
-                </div>
-                <a class="thumbnail" style="position: relative; z-index: 10; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" href='http://localhost/crawl-php/manga/immortal-merchant/19'>
-                                        <img src='https://readmanhua.net/uploads/manga/immortal-merchant/cover/cover_250x350.jpg' alt='Immortal Merchant' />
-                                    </a>
-                <div class="well">
-                    <p>
-                        <i class="fa fa-book"></i>
-                        #19  Chapter 19
                     </p>
                 </div>
             </div></li>
@@ -632,6 +632,21 @@
 
         <div class="mangalist">
                         <div class="manga-item">
+            <h3 class="manga-heading  pull-left ">
+                <i class="fa fa-book"></i>
+                <a href="http://localhost/crawl-php/manga/immortal-merchant">Immortal Merchant</a>
+                                <span class="label label-danger">hot</span>
+                            </h3>
+            <small class=" pull-right " style="direction: ltr;">  
+                                Yesterday
+                            </small>
+                        <div class="manga-chapter">
+                <h6 class="events-subtitle">
+                    <a href="http://localhost/crawl-php/manga/immortal-merchant/20">#20. Chapter 20</a>
+                </h6>
+            </div>
+                    </div>
+                                <div class="manga-item">
             <h3 class="manga-heading  pull-left ">
                 <i class="fa fa-book"></i>
                 <a href="http://localhost/crawl-php/manga/lord-xue-ying">Lord Xue Ying</a>
@@ -1196,21 +1211,6 @@
                 </h6>
             </div>
                     </div>
-                <div class="manga-item">
-            <h3 class="manga-heading  pull-left ">
-                <i class="fa fa-book"></i>
-                <a href="http://localhost/crawl-php/manga/tiger-x-crane">Tiger X Crane</a>
-                                <span class="label label-danger">hot</span>
-                            </h3>
-            <small class=" pull-right " style="direction: ltr;">  
-                                30/9/2018
-                            </small>
-                        <div class="manga-chapter">
-                <h6 class="events-subtitle">
-                    <a href="http://localhost/crawl-php/manga/tiger-x-crane/224">#224. Chapter 224</a>
-                </h6>
-            </div>
-                    </div>
                         
     </div>
     
@@ -1308,6 +1308,9 @@
             'border-radius': '15px'
         });
         $("a[title='Home']").attr('href', DOMAIN);
+        $("a[title='All List']").attr('href', DOMAIN);
+        $("a[title='Latest ']").attr('href', DOMAIN);
+
         $('.search').prev().remove();
         $('nav.navbar').css({
             'background-color': '#003399',
@@ -1342,14 +1345,15 @@
             $('.listmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-4').removeClass('col-sm-12');
             $('.panel-default').remove();
             $('.listmanga-header').prev('row').remove();
-            $('.manganews').prev('hr').remove();
-            $('.listmanga-header').remove();
-            $('.manganews').remove();
-            $('.col-sm-4').remove();
-            $('.col-sm-8').removeClass('col-sm-pull-4');
-            $('.col-sm-8').addClass('col-sm-12');
-            $('.col-sm-8').removeClass('col-sm-8');
             $("[style='clear:both']").remove();
+            $('.manganews').prev('hr').remove();
+            $('.manganews').remove();
+            $('.listmanga-header').remove();
+            
+            $('.col-sm-4').eq(0).remove();
+            $('.col-sm-8').removeClass('col-sm-pull-4');
+            $('.col-sm-8').eq(0).addClass('col-sm-12');
+            $('.col-sm-8').eq(0).removeClass('col-sm-8');
         }
         
     });

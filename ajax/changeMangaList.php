@@ -1,5 +1,6 @@
 <?php
-    require_once("../system/start.php");
+    require_once("../system/library/curl.php");
+    $curl = new cURL();
     $url = "https://readmanhua.net/changeMangaList?";
     foreach ($_GET as $key => $value) {
         $url .= $key . "=" . $value . "&";
