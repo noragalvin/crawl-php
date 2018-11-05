@@ -33,10 +33,15 @@ function progess($html)
 		$html = str_replace($weburl . '/manga', HTTP_SERVER . '/manga', $html);
 		$html = str_replace($weburl . '/latest-release', HTTP_SERVER . '/latest-release', $html);
 		$html = str_replace($weburl . '/privacy-policy', HTTP_SERVER . '/privacy-policy', $html);
+		$html = str_replace("uploads/atr/kofi.jpg", "", $html);
 
 		//Ads
-		$html = str_replace("<h2 class=\"hotmanga-header\">", "<h2><i class=\"fa fa-credit-card-alt\" aria-hidden=\"true\"></i>Advertisement</h2><hr><div style=\"width: 728px;height: 90px;\"></div><h2 class=\"hotmanga-header\">", $html);
-		$html = str_replace("<div class=\"col-sm-4 col-sm-push-8\">", "<div class=\"col-sm-4 col-sm-push-8\"><h2>Advertisement</h2>", $html);
+
+		//Top ads
+		// $html = str_replace("<h2 class=\"hotmanga-header\">", "<h2><i class=\"fa fa-credit-card-alt\" aria-hidden=\"true\"></i>Advertisement</h2><hr><div style=\"width: 728px;height: 90px;\"></div><h2 class=\"hotmanga-header\">", $html);
+		//Right ads
+		// $html = str_replace("<div class=\"col-sm-4 col-sm-push-8\">", "<div class=\"col-sm-4 col-sm-push-8\"><h2>Advertisement</h2>", $html);
+		//Left ads
 		$html = str_replace("</body>", "<div style=\"width: 100%;
 		height: 768px;
 		position: fixed;

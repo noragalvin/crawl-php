@@ -55,14 +55,22 @@
             $(".navbar-custom-menu").remove();
         }
 
-        
+        //Top ads
+        if($(".container-fluid")){
+            $(".container-fluid").eq(1).prepend("<h2><i class=\"fa fa-credit-card-alt\" aria-hidden=\"true\"></i>Advertisement</h2><hr><div style=\"width: 728px;height: 90px;\"></div>");
+        }
+        $(".container").eq(1).prepend("<h2><i class=\"fa fa-credit-card-alt\" aria-hidden=\"true\"></i>Advertisement</h2><hr><div style=\"width: 728px;height: 90px;\"></div>");
         
         var url = window.location.href;
         if(url.indexOf("manga-list") > -1){
-
+            $(".image-version-sidebar").prepend(`<div class="panel panel-default"><div style="width:300px; height:250px"></div></div><div class="panel panel-default"><div style="width:300px; height:250px"></div></div><div class="panel panel-default"><div style="width:300px; height:250px"></div></div>`);
         }else if(url.indexOf("latest-release") > -1) {
             //Latest
             $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
+            $(".container-fluid").remove();
+            $(".listmanga-header").parent(".col-sm-12").addClass("col-sm-8");
+            $(".listmanga-header").parent(".col-sm-12").removeClass("col-sm-12");
+            $(".listmanga-header").parent(".col-sm-8").parent(".row").append(`<div class="col-sm-4"><div class="panel panel-default"><div style="width:300px; height:250px"></div></div><div class="panel panel-default"><div style="width:300px; height:250px"></div></div><div class="panel panel-default"><div style="width:300px; height:250px"></div></div></div>`)
         }else {
             //Index
             // $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
@@ -75,11 +83,15 @@
             $('.manganews').remove();
             $('.listmanga-header').remove();
             $(".alert-success").remove();
+
+            //Right ads
             $(".panel-default").eq(0).find(".panel-body").html(`<div style="width:300px; height:250px"></div>`);
             $(".panel-default").eq(1).find(".panel-body").html(`<div style="width:300px; height:250px"></div>`);
             $(".panel-default").eq(2).find(".panel-body").html(`<div style="width:300px; height:250px"></div>`);
             $(".panel-default").eq(3).remove();
             $(".panel-default").eq(3).remove();
+            
+            
             // $('.col-sm-4').eq(0).remove();
             // $('.col-sm-8').removeClass('col-sm-pull-4');
             // $('.col-sm-8').eq(0).addClass('col-sm-12');
