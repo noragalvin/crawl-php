@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^api/([a-zA-Z0-9]+)$ api.php?site=$1

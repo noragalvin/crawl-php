@@ -1,25 +1,10 @@
 <?php
 require_once('system/start.php');
-// define("key", "bilutv.com4590481877");
+
 $webdomain = 'readmanhua.net';
 $weburl = 'https://' . $webdomain;
 $url = $weburl . $act;
 
-// print_r($curl->get("https://readmanhua.net/filterList?page=1&cat=&alpha=B&sortBy=name&asc=true&author=&artist=&tag="));
-// die();
-// if(preg_match('#xembed\.php|css|gif|js|png|jpg|swf|\.ico#',$url))
-// {
-// 	$response->redirect($url);
-// }
-// if(preg_match('#premium\.php#',$url)){
-// 	$response->redirect(HTTP_SERVER);
-// }
-// if(preg_match('#user.login#',$url)){
-// 	$response->redirect(HTTP_SERVER);
-// }
-// if(preg_match('#user.register#',$url)){
-// 	$response->redirect(HTTP_SERVER);
-// }
 function progess($html)
 { 
 	global $url,$webdomain,$weburl,$db,$md5,$curl;
@@ -38,22 +23,40 @@ function progess($html)
 		} else {
 			//Index
 			
-			
-			
 		}
 
 		//All pages
 		$html = str_replace("https://readmanhua.net/search", "ajax/search.php", $html);
-		$html = str_replace("https://readmanhua.net/uploads/logo.png", "http://manga.imeivn.com/logo.png", $html);
+		$html = str_replace("https://readmanhua.net/uploads/logo.png", "https://i.imgur.com/LqoUncp.png", $html);
 		$html = str_replace(`<a href="https://readmanhua.net">Gin Manga</a>`, `<a href="`.HTTP_SERVER.`">Gin Manga</a>`, $html);
-
-		
-		
 		$html = str_replace("Read Manhua", "Gin Manga", $html);
 		$html = str_replace($weburl . '/manga', HTTP_SERVER . '/manga', $html);
 		$html = str_replace($weburl . '/latest-release', HTTP_SERVER . '/latest-release', $html);
 		$html = str_replace($weburl . '/privacy-policy', HTTP_SERVER . '/privacy-policy', $html);
+
+		//Ads
+		$html = str_replace("<h2 class=\"hotmanga-header\">", "<h2><i class=\"fa fa-credit-card-alt\" aria-hidden=\"true\"></i>Advertisement</h2><hr><div style=\"width: 728px;height: 90px;\"></div><h2 class=\"hotmanga-header\">", $html);
+		$html = str_replace("<div class=\"col-sm-4 col-sm-push-8\">", "<div class=\"col-sm-4 col-sm-push-8\"><h2>Advertisement</h2>", $html);
+		$html = str_replace("</body>", "<div style=\"width: 100%;
+		height: 768px;
+		position: fixed;
+		left: 0;
+		top: 60px;
+		overflow: hidden;
+		visibility: hidden;
+		z-index: 0;\"><div style=\"visibility: visible;
+		height: 768px;
+		width: 336px;
+		position: absolute;
+		left: 50%;
+		margin-left: -836px;
+		top: 0;
+		z-index: 0;\"></div></div></body>", $html);
+
+		//Remove old Ads
+		$html = str_replace("<script async src=\"\/\/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>", "", $html);
 		
+
 		// $html = str_replace($weburl,HTTP_SERVER, $html);	
 		// $isMobile = (bool)preg_match('#\b(ip(hone|od|ad)|android|opera m(ob|in)i|windows (phone|ce)|blackberry|tablet'.
         //     '|s(ymbian|eries60|amsung)|p(laybook|alm|rofile/midp|laystation portable)|nokia|fennec|htc[\-_]'.
@@ -85,93 +88,7 @@ function progess($html)
 		// 	$html = str_replace('Bilutv Group',"GinMovies Group",$html);
 		// 	return $html;
 		// }
-		
 
-
-		// preg_match_all('%<img[^>]*src="(.*?)"[^>]*%i',$html, $images); 
-		// foreach($images[1] as $item){
-		// 	// $image_src = urlencode('http://ginmovies.me/image.php?image_src='.$item);
-		// 	$image_src = $item;
-		// 	$image_src = "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=".$image_src;
-		// 	$html = str_replace('src="'.$item.'"','src="'.$image_src.'"',$html);
-		// }
-		// preg_match_all('%<img[^>]*data-original="(.*?)"[^>]*%i',$html, $images); 
-		// foreach($images[1] as $item){
-		// 	// $image_src = urlencode('http://ginmovies.me/image.php?image_src='.$item);
-		// 	$image_src = "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=1200000&url=".$image_src;
-		// 	$html = str_replace('data-original="'.$item.'"','data-original="'.$image_src.'"',$html);
-		// }
-		// $html = str_replace(
-		// 	array(
-		// 		'BiluTV - Xem Phim Nhanh',
-		// 		'cT8Bj1Oyk59m7XMWDYw2OLB5sg2mgTDVyBcIdY-WlWo', 
-		// 		'Tên phim + bilutv',
-		// 		'<span style="color:#fff601;">"bilutv"</span>',
-		// 		'1199449753520420',
-		// 		'https://twitter.com/',
-		// 		'https://www.linkedin.com/',
-		// 		'https://www.facebook.com/facebook',
-		// 		'https://drive.google.com/file/d/0B2yCRA19C-LnbFFOamxIVW85YUk/view?usp=sharing',
-		// 		'url:"/jwplayer/skins/phimbathu.css?v1.1"',
-		// 		'name: "phimbathu"',
-		// 		'autostart: true,',
-		// 		'class="box-rating"',
-		// 		'/images/error_loading.jpg',
-		// 		'<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>',
-		// 		'/hop-tac-noi-dung.html',
-		// 		'/lien-he-quang-cao.html',
-		// 		'/dieu-khoan-chung.html',
-		// 		'/ban-quyen-noi-dung.html',
-		// 		'/dong-gop-y-kien.html',
-		// 		'http://abc1.monchadd.com/lu.php',
-		// 		'/uploads/huong_dan_search_bilu.png',
-		// 		'/js/yii-1.0.min.js',
-		// 		'http://media.bilutv.com/images/grey.gif',
-		// 		'<a href="https://www.facebook.com/CLTGsubbingteam/"><strong>Cửu Long Thần Giáo Subbing Team</strong></a>',
-		// 		'<strong>Bilutv.com</strong>',
-		// 		'huong-dan-tim-kiem.jpg"></noscript>',
-		// 		'<a class="btn btn-download btn-success"'
-		// 	),
-		// 	array(
-		// 		'GinMovies - Xem Phim Nhanh',
-		// 		'kErMI8O4-7C9L-jqreZKQYtn2W-JdXLKis_53icxL5s', // Google Webmaster Verify
-		// 		'Tên phim + ginmovies.me',
-		// 		'<span style="color:#fff601;">"ginmovies.me"</span>',
-		// 		'508308149306202', // Facebook App ID
-		// 		'https://www.facebook.com/ginmovies.me',
-		// 		'https://www.facebook.com/ginmovies.me',
-		// 		'https://www.facebook.com/ginmovies.me',
-		// 		'https://i.rmbl.ws/s8/2/J/w/Z/C/JwZCa.gaa.1.mp4',
-		// 		'url:"/jwplayer/flat.teal.css"',
-		// 		'name: "flat-teal"',
-		// 		'autostart: false,',
-		// 		'class="box-rating" style="display:none;"',
-		// 		'http://ginmovies.me/images/error_loading.jpg',
-		// 		'', // ADS Left Bottom
-		// 		'#',
-		// 		'#',
-		// 		'#',
-		// 		'#',
-		// 		'#',
-		// 		'http://ginmovies.me',
-		// 		'http://ginmovies.me/images/huong-dan-tim-kiem.jpg',
-		// 		'http://bilutv.com/js/yii-1.0.min.js',
-		// 		'http://ginmovies.me/images/grey.png',
-		// 		'bởi GinMovies.Me',
-		// 		'<strong>GinMovies.Me</strong>',
-		// 		'huong-dan-tim-kiem.jpg"></noscript><br/><br/>',
-		// 		'<a class="btn btn-download btn-success" style="display:none;"'
-		// 	),
-		// 	$html);
-
-		// $html = str_replace('http://media.bilutv.com/js/jquery.raty.js', 'http://ginmovies.me/js/jquery.raty2.js', $html);
-		// $html = preg_replace_callback('/<script[^>]*>(.*)<\/script>/Uis', function($m){		
-		// 	if(strpos($m[1],'createIframe') !== false || strpos($m[1],'GoogleAnalyticsObject') !== false || strpos($m[1],'blueseed_channel') !== false || strpos($m[1],'VP.init(') !== false || strpos($m[1],'InPage_') !== false || strpos($m[1],'#iframeballoon') !== false || strpos($m[1],'innity_adZone') !== false || strpos($m[1],'CloudFlare=') !== false || strpos($m[1],'_ase.push') !== false){
-		// 		return '';
-		// 	}else{
-		// 		return $m[0];
-		// 	}
-		// }, $html);
 		// $html = preg_replace_callback('/<script[^>]*src="(.*?)"><\/script>/',function($m){
 		// 	if(strpos($m[1],'adsx_v4') !== false){
 		// 		return '<script type="text/javascript" src="'.HTTP_SERVER.'/js/gibberish-aes-1.0.0.js"></script>';
@@ -200,9 +117,9 @@ function progess($html)
 		// }
 
 		// $html = preg_replace_callback('#<script type="text/javascript" src="(.*?)bplayer.js(.*?)"></script>#', function(){return '<script type="text/javascript" src="'.HTTP_SERVER.'/js/bplayer.js"></script>';}, $html);
-		$header = file_get_contents('header.php');
+		$header = file_get_contents('views/header.php');
 		$html = str_replace('</head>',$header.'</head>',$html);
-		$footer = file_get_contents('footer.php');
+		$footer = file_get_contents('views/footer.php');
 		$html = str_replace('</body>',$footer.'</body>',$html);
 	}
 	
