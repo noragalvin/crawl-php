@@ -1,12 +1,4 @@
 <?php
-// if($_SERVER['HTTP_CF_IPCOUNTRY'] == 'VN'){
-// 	header('location: http://google.com');
-// }
-// $config['db']['server'] = 'indomovies.me';
-// $config['db']['user'] = 'root';
-// $config['db']['pass'] = 'tung278790';
-// $config['db']['data'] = 'dmt_clone';
-
 $config['folder']['project'] = substr(str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']),0,-1);
 $timecheck = 30*24*60*60;
 $dir_project  = dirname(dirname(__FILE__));
@@ -31,12 +23,13 @@ $devices = new Devices();
 
 $browse = $devices->getBrowserInformation();
 
-//$db = new MySQL($config['db']['server'], $config['db']['user'], $config['db']['pass'],  $config['db']['data']);
+
 $current_url = 'http://' . $requset->server['HTTP_HOST'] . $requset->server['REQUEST_URI'];
 if($config['folder']['project'] != '/'){
 	$act = str_replace($config['folder']['project'], '', $requset->server['REQUEST_URI']);
+	
 }else{
 	$act =  $requset->server['REQUEST_URI'];
 }
-// print_r($config['folder']['project']);
+// print_r($act);
 // die();
