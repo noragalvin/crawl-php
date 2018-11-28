@@ -8,7 +8,7 @@ define('DIR_LIBRARY',DIR_SYSTEM . '/library/');
 define('DIR_CACHE',DIR_SYSTEM . '/cache/');
 define('DIR_LOGS',DIR_SYSTEM . '/log/');
 define('COOKIE_TIME',30*24*60*60);
-define('DOMAIN', 'manga.imeivn.com');
+define('DOMAIN', 'vipmanga.com');
 
 foreach (glob(DIR_LIBRARY . '*.php') as $file) 
 {
