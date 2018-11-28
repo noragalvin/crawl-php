@@ -62,7 +62,10 @@
         }else if(url.indexOf("latest-release") > -1) {
             //Latest
             $("ul.pagination").parents(".col-xs-12").eq(0).addClass("text-center");
-        }else {
+        }else if(url.indexOf("manga/") > -1) {
+            $(".col-sm-2").addClass("col-sm-3");
+            $(".col-sm-2").removeClass("col-sm-2");
+        } else {
             //Index
             // $('.mangalist').parents(".col-sm-12").eq(0).addClass("col-sm-4").removeClass("col-sm-12");
             // $('.hotmanga-header').parents(".col-sm-12").eq(0).addClass('col-sm-8').removeClass('col-sm-12');
