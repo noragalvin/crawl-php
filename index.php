@@ -44,6 +44,29 @@ function progess($html)
 		$html = str_replace('<div class="alert alert-success">','<div class="alert alert-success" style="display:none;">',$html);
 		$html = str_replace("google-auto-placed", "", $html);
 		$html = str_replace("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", "", $html);
+		$html = str_replace("<meta property=\"og:image\" content=\"https://readmanhua.net/logo.jpg\" />", "
+		<!-- For Google -->
+		<meta name=\"description\" content=\"Vip Manga - Read Manga Online for Free\" />
+		<meta name=\"keywords\" content=\"tales of demon and gos, holy ancestor, lord xue ying,manga,read manga,read manga online,manga online,online manga,manga reader, manga scans,english manga,naruto manga,bleach manga, one piece manga,manga chapter,read free manga,free manga,read free manga online,manga viewer, readmanga.today. readmng.net, readmng.com, batoto, mangadex, trashscans, trashscanlations, trashscanlations.com, kissmanga, mangakakalot, kiss manga, manga kakalot\" />
+
+		<meta name=\"author\" content=\"Vip Manga - Read Manga Online for Free\" />
+		<meta name=\"copyright\" content=\"Vip Manga - Read Manga Online for Free\" />
+		<meta name=\"application-name\" content=\"Vip Manga - Read Manga Online for Free\" />
+
+		<!-- For Facebook -->
+		<meta property=\"og:title\" content=\"Vip Manga - Read Manga Online for Free\" />
+		<meta property=\"og:type\" content=\"article\" />
+		<meta property=\"og:image\" content=\"https://vipmanga.com/logo.jpg\" />
+		<meta property=\"og:url\" content=\"https://vipmanga.com\" />
+		<meta property=\"og:description\" content=\"tales of demon and gos, holy ancestor, lord xue ying,manga,read manga,read manga online,manga online,online manga,manga reader, manga scans,english manga,naruto manga,bleach manga, one piece manga,manga chapter,read free manga,free manga,read free manga online,manga viewer, readmanga.today. readmng.net, readmng.com, batoto, mangadex, trashscans, trashscanlations, trashscanlations.com, kissmanga, mangakakalot, kiss manga, manga kakalot\" />
+
+		<!-- For Twitter -->
+		<meta name=\"twitter:card\" content=\"summary\" />
+		<meta name=\"twitter:title\" content=\"Vip Manga - Read Manga Online for Free\" />
+		<meta name=\"twitter:description\" content=\"tales of demon and gos, holy ancestor, lord xue ying,manga,read manga,read manga online,manga online,online manga,manga reader, manga scans,english manga,naruto manga,bleach manga, one piece manga,manga chapter,read free manga,free manga,read free manga online,manga viewer, readmanga.today. readmng.net, readmng.com, batoto, mangadex, trashscans, trashscanlations, trashscanlations.com, kissmanga, mangakakalot, kiss manga, manga kakalot\" />
+		<meta name=\"twitter:image\" content=\"https://vipmanga.com/logo.jpg\" />
+		", $html);
+		$html = str_replace("https://readmanhua.net/uploads/favicon.jpg", "https://vipmanga.com/logo.jpg", $html);
 
 		
 
